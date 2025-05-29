@@ -23,7 +23,7 @@ df["Altura"] = df["columna_original"].apply(lambda x: extraer_dato(r'Altura.*', 
 
 # Nombre del archivo Excel (puede ser nuevo o existente)
 archivo_excel = "datos.xlsx"
-nombre_hoja = "Procesados"
+nombre_hoja = "Procesados."
 
 try:
     # Intentar abrir el archivo si ya existe
