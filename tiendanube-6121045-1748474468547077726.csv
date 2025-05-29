@@ -1,0 +1,975 @@
+"Identificador de URL";Nombre;Categorías;"Nombre de propiedad 1";"Valor de propiedad 1";"Nombre de propiedad 2";"Valor de propiedad 2";"Nombre de propiedad 3";"Valor de propiedad 3";Precio;"Precio promocional";"Peso (kg)";"Alto (cm)";"Ancho (cm)";"Profundidad (cm)";Stock;SKU;"Código de barras";"Mostrar en tienda";"Envío sin cargo";Descripción;Tags;"Título para SEO";"Descripción para SEO";Marca;"Producto Físico";"MPN (Número de pieza del fabricante)";Sexo;"Rango de edad";Costo
+sweater-nina;"Sweater nina";Superiores;Color;Blanco;;;;;60,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Este sweater cropped blanco es el b&aacute;sico imprescindible que combina con todo. Con un dise&ntilde;o de punto acanalado y corte recto a la cintura, aporta ese toque minimalista y moderno que eleva cualquier outfit.</p>";;;;;SI;;;;
+sweater-nina;;;Color;Negro;;;;;60,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+sweater-dakota;"Sweater dakota";Superiores;Color;Blanco;;;;;70,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""209"" data-end=""446"">Sum&aacute; un toque de sofisticaci&oacute;n a tu armario con nuestro sweater de tejido acanalado. Su tejido suave y el&aacute;stico, compuesto por <strong data-start=""336"" data-end=""382"">50% viscosa, 28% poli&eacute;ster y 22% poliamida</strong>, te brinda <strong data-start=""394"" data-end=""417"">la m&aacute;xima comodidad</strong> sin dejar de lado el estilo.</p>
+<p data-start=""448"" data-end=""757"">Dise&ntilde;ado con <strong data-start=""461"" data-end=""511"">detalles acanalados en cuello, pu&ntilde;os y cintura</strong>, este sweater ofrece un look cl&aacute;sico, atemporal y vers&aacute;til. Su corte moderno y femenino lo convierte en una prenda ideal para cualquier ocasi&oacute;n: desde una salida casual hasta un look m&aacute;s elegante si lo combin&aacute;s con accesorios y calzado adecuado.</p>
+<p style=""margin-bottom: 0px; font-style: normal; font-variant-caps: normal; font-width: normal; font-size: 12px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;"">&nbsp;</p>
+<p data-start=""759"" data-end=""970"">Gracias a su fit c&oacute;modo y su textura agradable al tacto, se adapta perfectamente al cuerpo sin perder su forma. <strong data-start=""871"" data-end=""913"">Combinalo con jeans, faldas o vestidos</strong> para lograr outfits distintos con una sola prenda clave.</p>";;;;;SI;;;;
+sweater-dakota;;;Color;Gris;;;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+sweater-dakota;;;Color;Negro;;;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+sweater-ophelia;"Sweater ophelia";Superiores;Color;Negro;;;;;62,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""233"" data-end=""539"">Nuestro modelo con botones dorados es la opci&oacute;n perfecta para crear looks modernos, c&oacute;modos y con un toque de elegancia. Confeccionado en <strong data-start=""371"" data-end=""395"">tejido 100% acr&iacute;lico</strong>, este sweater ofrece una textura suave, c&aacute;lida y ligeramente el&aacute;stica que se adapta a tu cuerpo brindando m&aacute;xima comodidad durante todo el d&iacute;a.</p>
+<p style=""margin-bottom: 0px; font-style: normal; font-variant-caps: normal; font-width: normal; font-size: 12px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;"">&nbsp;</p>
+<p data-start=""541"" data-end=""825"">Dise&ntilde;ado con <strong data-start=""554"" data-end=""600"">tejido acanalado en el cuello y la cartera</strong>, y un <strong data-start=""607"" data-end=""647"">acceso delantero con botones dorados</strong>, este modelo eleva cualquier outfit con un detalle chic y femenino. Adem&aacute;s, incluye <strong data-start=""732"" data-end=""774"">dos bolsillos tipo parche en el frente</strong>, que aportan un toque funcional sin perder estilo.</p>";;;;;SI;;;;
+sweater-ophelia;;;Color;Blanco;;;;;62,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+aqua-dorado;"Aqua - Dorado";"Accesorios  > Collares";;;;;;;50,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""190"" data-end=""431"">Este collar de cadena dorada es el accesorio perfecto para elevar cualquier look. Su dise&ntilde;o moderno con eslabones rectangulares unidos por peque&ntilde;as esferas le da un aire sofisticado y vanguardista, ideal tanto para el d&iacute;a como para la noche.</p>
+<p>&nbsp;</p>
+<p data-start=""433"" data-end=""673"">Fabricado con materiales de alta calidad y terminado en dorado brillante, este collar se destaca por su resistencia, durabilidad y estilo atemporal. Llev&aacute;lo solo para un toque elegante o combin&aacute;lo con otros collares para un look m&aacute;s trendy.</p>";;;;;SI;;;;7,000.00
+evelyn;Evelyn;"Accesorios  > Collares";;;;;;;50,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""218"" data-end=""453"">Este collar dorado de triple capa es la definici&oacute;n perfecta de elegancia moderna. Combinando diferentes texturas de cadenas con un delicado <strong data-start=""358"" data-end=""408"">dije en forma de gota con cristal transparente</strong>, aporta luz y movimiento a cualquier outfit.</p>
+<p>&nbsp;</p>
+<p data-start=""455"" data-end=""691"">Ideal para destacar escotes y complementar looks tanto casuales como formales, su dise&ntilde;o en capas da un efecto sofisticado sin necesidad de sobrecargar. Cada nivel est&aacute; cuidadosamente decorado con detalles que lo hacen &uacute;nico y vers&aacute;til.</p>";;;;;SI;;;;8,500.00
+combo-4-collares;"Combo 4 collares";"Accesorios  > Collares";;;;;;;75,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Elev&aacute; tu estilo con este exquisito collar dorado de dise&ntilde;o en capas, compuesto por cuatro delicadas cadenas que combinan <strong data-start=""367"" data-end=""425"">perlas, una flor nacarada y un dije de coraz&oacute;n vintage</strong>. Cada capa fue pensada para transmitir feminidad, elegancia y un toque rom&aacute;ntico atemporal.</p>";;;;;SI;;;;24,500.00
+agata;Agata;"Accesorios  > Collares";;;;;;;60,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Este elegante collar dorado multicadena es la pieza perfecta para realzar cualquier look. Compuesto por varias capas finas con detalles de cuentas brillantes y discos met&aacute;licos, ofrece un estilo sofisticado y moderno. El toque final lo da un delicado dije en forma de estrella con incrustaciones brillantes, ideal para quienes buscan un accesorio con personalidad y brillo sutil.</p>";;;;;SI;;;;12,000.00
+hermes-naranja-plateado;"Hermes Naranja Plateado";"Accesorios  > Pulseras ";;;;;;;55,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>A&ntilde;ade un toque de color y elegancia a tu look con esta sofisticada pulsera r&iacute;gida esmaltada en un vibrante tono naranja. Su dise&ntilde;o moderno se complementa con un acabado met&aacute;lico plateado y un ic&oacute;nico cierre en forma de &ldquo;H&rdquo; que la hace destacar por su estilo contempor&aacute;neo y refinado.</p>";;;;;SI;;;;5,500.00
+trebol-negro-acero-grande-con-strass-de-un-lado;"Trebol Negro Acero Grande - Con STRASS de un lado";"Accesorios  > Pulseras ";;;;;;;30,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Elegancia y distinci&oacute;n se unen en esta pulsera tipo tr&eacute;bol de cuatro hojas, alternando apliques en color negro con detalles de cristal incrustado. Cada m&oacute;dulo est&aacute; finamente trabajado con bordes met&aacute;licos texturizados que realzan el brillo y aportan sofisticaci&oacute;n a tu estilo.</p>";;;;;SI;;;;5,500.00
+life-plateada;"Life - Plateada";"Accesorios  > Pulseras ";;;;;;;45,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""95"" data-end=""169""><strong data-start=""95"" data-end=""169"">Pulsera R&iacute;gida Plateada con Cristales y Detalle Central Estilo Cl&aacute;sico</strong></p>
+<p>&nbsp;</p>
+<p data-start=""171"" data-end=""486"">Refinada y brillante, esta pulsera r&iacute;gida en tono plateado es una joya que destaca por su dise&ntilde;o limpio y elegante. Su estructura est&aacute; completamente adornada con peque&ntilde;os cristales que aportan un brillo sutil, mientras que el centro luce un detalle circular entrelazado que realza su estilo sofisticado y atemporal.</p>";;;;;SI;;;;7,700.00
+pulsera-love;"Pulsera Love";"Accesorios  > Pulseras ";;;;;;;35,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Una joya delicada y rom&aacute;ntica que dice m&aacute;s que mil palabras. Esta pulsera ajustable en tono dorado est&aacute; decorada con brillantes incrustaciones tipo diamante y lleva el mensaje &ldquo;LOVE&rdquo; en letras doradas, ideal para regalar o complementar un look lleno de estilo y dulzura.</p>";;;;;SI;;;;63,000.00
+life-dorada;"Life - Dorada";"Accesorios  > Pulseras ";;;;;;;45,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""95"" data-end=""169""><strong data-start=""95"" data-end=""169"">Pulsera R&iacute;gida Dorada con Cristales y Detalle Central Estilo Cl&aacute;sico</strong></p>
+<p data-start=""171"" data-end=""486"">Refinada y brillante, esta pulsera r&iacute;gida en tono dorado es una joya que destaca por su dise&ntilde;o limpio y elegante. Su estructura est&aacute; completamente adornada con peque&ntilde;os cristales que aportan un brillo sutil, mientras que el centro luce un detalle circular entrelazado que realza su estilo sofisticado y atemporal.</p>";;;;;SI;;;;7,700.00
+van-negra;"Van Negra";"Accesorios  > Pulseras ";;;;;;;45,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Elegancia y sofisticaci&oacute;n en una sola pieza. Esta pulsera r&iacute;gida dorada se destaca por sus delicados detalles en forma de tr&eacute;bol con fondo negro, que le aportan un toque distintivo y refinado. Ideal para combinar con otros accesorios dorados o usar como protagonista.</p>";;;;;SI;;;;8,500.00
+hermes-negro-dorado-grande;"Hermes Negro Dorado Grande";"Accesorios  > Pulseras ";;;;;;;65,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Dise&ntilde;o moderno y elegante que nunca pasa de moda. Esta pulsera r&iacute;gida dorada incorpora detalles en esmalte negro y un cierre frontal en forma de ""H"", creando un estilo sofisticado y distintivo.</p>";;;;;SI;;;;11,500.00
+hermes-blanco-dorado-grande;"Hermes Blanco Dorado Grande";"Accesorios  > Pulseras ";;;;;;;65,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Dise&ntilde;o moderno y elegante que nunca pasa de moda. Esta pulsera r&iacute;gida dorada incorpora detalles en esmalte blanco y un cierre frontal en forma de ""H"", creando un estilo sofisticado y distintivo.</p>";;;;;SI;;;;11,500.00
+trebol-plateado;"Trebol - Plateado";"Accesorios  > Pulseras ";;;;;;;30,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Elegancia y encanto en cada detalle. Esta pulsera combina tr&eacute;boles y cristales brillantes, todo enmarcado en un dise&ntilde;o plateado delicado y sofisticado.</p>";;;;;SI;;;;3,000.00
+hermes-negro-dorado;"Hermes Negro Dorado";"Accesorios  > Pulseras ";;;;;;;55,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Una pieza ic&oacute;nica y sofisticada. Esta pulsera r&iacute;gida con dise&ntilde;o en esmalte negro y detalles dorados es el complemento ideal para un look elegante y moderno.</p>";;;;;SI;;;;10,000.00
+trebol-dorado-con-strass;"Trebol - Dorado con strass";"Accesorios  > Pulseras ";;;;;;;30,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Elegancia y buena suerte en una sola pieza. Esta pulsera r&iacute;gida dorada con detalles de tr&eacute;boles decorados con strass es el toque de brillo ideal para tu outfit.</p>";;;;;SI;;;;6,500.00
+hermes-dorada;"Hermes Dorada";"Accesorios  > Pulseras ";;;;;;;55,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Descubre la exquisita belleza de nuestra Pulsera Hermes Dorada, un accesorio que combina dise&ntilde;o ic&oacute;nico y un acabado brillante que realza cualquier look. Fabricada con materiales de alta calidad y un tono dorado impecable, esta pulsera es el complemento perfecto para quienes buscan estilo y distinci&oacute;n en cada detalle.</p>";;;;;SI;;;;10,000.00
+hermes-nacar-dorado;"Hermes Nacar Dorado";"Accesorios  > Pulseras ";;;;;;;55,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Luce un accesorio &uacute;nico con nuestra Pulsera Hermes N&aacute;car Dorado, que combina la delicadeza del n&aacute;car con el lujo del acabado dorado. Este dise&ntilde;o sofisticado refleja un equilibrio perfecto entre modernidad y tradici&oacute;n, ideal para quienes buscan un detalle distinguido y vers&aacute;til.</p>";;;;;SI;;;;10,000.00
+miranda;Miranda;"Accesorios  > Pulseras ";;;;;;;55,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>A&ntilde;ade un toque de lujo y sofisticaci&oacute;n a tu look con nuestra Pulsera Dorada con Strass, un accesorio deslumbrante que captura la luz en cada movimiento. El metal dorado combinado con los brillantes cristales strass crea una pieza perfecta para quienes buscan elegancia y un toque de glamour.</p>";;;;;SI;;;;8,500.00
+aros-trebol-plateado;"Aros trébol plateado";"Accesorios  > Aros";;;;;;;30,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Luce unos aros delicados y llenos de significado con nuestros Aros Tr&eacute;bol Plateado. Este dise&ntilde;o inspirado en el tr&eacute;bol de la suerte combina la belleza del metal plateado con un toque simb&oacute;lico que aporta personalidad y estilo a tu look diario.</p>";;;;;SI;;;;3,000.00
+gwen;Gwen;"Accesorios  > Aros";;;;;;;25,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Destaca con estos aros largos plateados adornados con brillantes cristales strass que capturan la luz en cada giro. Su dise&ntilde;o sofisticado y moderno aporta un toque glamuroso ideal para complementar tanto looks de d&iacute;a como de noche.</p>";;;;;SI;;;;3,000.00
+brenda;Brenda;"Accesorios  > Aros";;;;;;;25,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Descubre la belleza de la simplicidad con estos aros largos finos, dise&ntilde;ados para quienes prefieren un estilo sutil pero sofisticado. Su dise&ntilde;o delicado y alargado aporta un toque elegante que combina perfectamente con cualquier outfit, desde lo casual hasta lo formal.</p>";;;;;SI;;;;3,000.00
+yuli;Yuli;"Accesorios  > Aros";;;;;;;28,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Eleva tu estilo con estos elegantes aros largos dorados adornados con cristales strass plateados que capturan la luz con cada movimiento. La combinaci&oacute;n del dorado c&aacute;lido con el brillo fr&iacute;o de los strass crea un contraste sofisticado, perfecto para destacar en cualquier ocasi&oacute;n.</p>";;;;;SI;;;;3,000.00
+mini-chic-plateado;"Mini Chic Plateado";"Accesorios  > Aros";;;;;;;28,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Dale un toque contempor&aacute;neo y sofisticado a tu look con estos aros largos tipo eslabones en acabado plateado, decorados con brillantes cristales strass. Su dise&ntilde;o &uacute;nico y audaz combina la fuerza del eslab&oacute;n con el glamour del brillo, ideales para quienes buscan destacar con elegancia.</p>";;;;;SI;;;;4,000.00
+irina;Irina;"Accesorios  > Aros";;;;;;;36,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>A&ntilde;ade un toque de sofisticaci&oacute;n a tu look con estos aros dorados adornados con deslumbrantes cristales strass. Su dise&ntilde;o cl&aacute;sico y elegante los convierte en el complemento perfecto para cualquier ocasi&oacute;n, desde eventos formales hasta tu d&iacute;a a d&iacute;a.</p>";;;;;SI;;;;7,500.00
+lima;Lima;"Accesorios  > Aros";;;;;;;33,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Lleva un aire bohemio y sofisticado con estos aros dorados en elegante forma de V. Su dise&ntilde;o moderno y delicado combina el brillo sutil del cristal con la calidez del dorado, creando un accesorio perfecto para complementar cualquier look con personalidad y estilo.</p>";;;;;SI;;;;5,000.00
+aros-trebol-blaco;"Aros trébol blaco";"Accesorios  > Aros";;;;;;;30,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Luce un s&iacute;mbolo de buena fortuna con nuestros delicados aros tr&eacute;bol blanco. Su dise&ntilde;o puro y minimalista en tonos claros aporta frescura y sofisticaci&oacute;n a cualquier look, convirti&eacute;ndolos en el accesorio perfecto para el d&iacute;a a d&iacute;a o momentos especiales.</p>";;;;;SI;;;;4,000.00
+aros-trebol-dorado;"Aros trébol dorado";"Accesorios  > Aros";;;;;;;30,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Luce un s&iacute;mbolo de buena fortuna con nuestros encantadores aros tr&eacute;bol dorado. Su dise&ntilde;o delicado y acabado dorado brillante aportan un toque sofisticado y atemporal a cualquier look, ideal para quienes buscan un accesorio con significado y estilo.</p>";;;;;SI;;;;4,000.00
+aros-trebol-negro;"Aros trébol negro";"Accesorios  > Aros";;;;;;;30,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Luce un s&iacute;mbolo de buena fortuna con nuestros encantadores aros tr&eacute;bol dorado. Su dise&ntilde;o delicado y acabado negro aportan un toque sofisticado y atemporal a cualquier look, ideal para quienes buscan un accesorio con significado y estilo.</p>";;;;;SI;;;;4,000.00
+short-amelia;"Short Amelia";Inferiores;Color;Blanco;Talle;S;;;40,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Amelia es la pieza perfecta para quienes buscan un accesorio que combine simplicidad y sofisticaci&oacute;n. Su dise&ntilde;o cuidado y elegante aporta un toque especial que realza cualquier outfit, desde los looks casuales hasta los m&aacute;s formales. Ideal para mujeres que valoran la belleza en los detalles y la versatilidad en sus accesorios.</p>";;;;;SI;;;;
+short-amelia;;;Color;Blanco;Talle;M;;;40,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+short-amelia;;;Color;Negro;Talle;S;;;40,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+short-amelia;;;Color;Negro;Talle;M;;;40,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-simone;"Pantalón Simone";Inferiores;Color;Blanco;Talle;S;;;99,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>El pantal&oacute;n sastrero Simone es la pieza clave para un look sofisticado y profesional. Con un corte impecable y detalles pensados para realzar la figura, este pantal&oacute;n combina comodidad y estilo para que puedas lucir impecable en cualquier ocasi&oacute;n.</p>";;;;;SI;;;;
+pantalon-simone;;;Color;Blanco;Talle;M;;;99,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-simone;;;Color;Blanco;Talle;L;;;99,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-simone;;;Color;Gris;Talle;S;;;99,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-simone;;;Color;Gris;Talle;M;;;99,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-simone;;;Color;Gris;Talle;L;;;99,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-simone;;;Color;Negro;Talle;S;;;99,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-simone;;;Color;Negro;Talle;M;;;99,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-simone;;;Color;Negro;Talle;L;;;99,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-malala;"Vestido Malala";Superiores;Color;Negro;;;;;55,000.00;42,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>El vestido ajustado Malala sin mangas es la elecci&oacute;n perfecta para resaltar tu figura con estilo y comodidad. Su dise&ntilde;o ce&ntilde;ido realza las curvas de manera delicada, mientras que la ausencia de mangas aporta frescura y un look moderno ideal para diversas ocasiones.</p>";;;;;SI;;;;
+vestido-malala;;;Color;Blanco;;;;;55,000.00;42,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-marie-white;"Top Marie White";Superiores;Color;Blanco;;;;;70,000.00;45,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>El Top Marie White destaca por su dise&ntilde;o &uacute;nico de una sola manga tipo musculosa, que combina comodidad y un toque moderno para cualquier ocasi&oacute;n. Su color blanco puro aporta frescura y versatilidad, perfecto para crear looks desde casuales hasta sofisticados con facilidad.</p>";;;;;SI;;;;
+top-marie-black;"Top Marie Black";Superiores;Color;Negro;;;;;70,000.00;45,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>El Top Marie Black destaca por su dise&ntilde;o &uacute;nico de una sola manga tipo musculosa, que combina comodidad y un toque moderno para cualquier ocasi&oacute;n. Su color negro aporta frescura y versatilidad, perfecto para crear looks desde casuales hasta sofisticados con facilidad.</p>";;;;;SI;;;;
+top-ada;"Top Ada";Superiores;Color;Gris;;;;;35,000.00;22,820.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Este top con mangas tipo tiras ofrece un dise&ntilde;o elegante y refinado, ideal para ocasiones formales o eventos donde se requiere un estilo sofisticado pero discreto. Su corte impecable y detalles delicados realzan la figura con gracia, aportando un toque de feminidad y modernidad a tu outfit.</p>";;;;;SI;;;;
+top-ada;;;Color;Negro;;;;;35,000.00;22,820.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-frida;"Top Frida";Superiores;Color;Negro;;;;;28,000.00;20,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Esta musculosa negra destaca por su delicado detalle de encaje, que a&ntilde;ade un toque de sofisticaci&oacute;n y sensualidad discreta a una prenda b&aacute;sica. Su dise&ntilde;o ajustado y el acabado fino hacen que sea perfecta para combinar en looks formales o casuales con estilo.</p>";;;;;SI;;;;
+top-cleo;"Top Cleo";Superiores;Color;Blanco;;;;;38,000.00;30,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>El Top Musculosa Cleo en color negro combina la sencillez cl&aacute;sica con un detalle &uacute;nico: una argolla met&aacute;lica en una de sus mangas que aporta un toque de personalidad y sofisticaci&oacute;n. Su corte ajustado y dise&ntilde;o minimalista hacen que sea una prenda vers&aacute;til para looks casuales o m&aacute;s arreglados.</p>";;;;;SI;;;;
+top-cleo;;;Color;Negro;;;;;38,000.00;30,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-rose;"Top Rose";Superiores;Color;Blanco;;;;;55,000.00;26,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Este top musculosa es un b&aacute;sico esencial que no puede faltar en tu guardarropa. Disponible en negro, blanco y gris, ofrece opciones vers&aacute;tiles para combinar f&aacute;cilmente con cualquier outfit. Su dise&ntilde;o simple y c&oacute;modo lo convierte en la pieza perfecta para usar sola o como base para looks m&aacute;s elaborados.</p>";;;;;SI;;;;
+top-rose;;;Color;Gris;;;;;55,000.00;26,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-rose;;;Color;Negro;;;;;55,000.00;26,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;"Body loud";Superiores;Color;Blanco;Talle;S;;;50,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""173"" data-end=""440"">Este body polera confeccionado en lycra premium es la opci&oacute;n perfecta para quienes buscan un look elegante y c&oacute;modo al mismo tiempo. Su dise&ntilde;o cl&aacute;sico y vers&aacute;til se adapta f&aacute;cilmente a cualquier ocasi&oacute;n, brind&aacute;ndote un estilo impecable desde la ma&ntilde;ana hasta la noche.</p>
+<ul data-start=""442"" data-end=""915"">
+<li data-start=""442"" data-end=""579"">
+<p data-start=""444"" data-end=""579""><strong data-start=""444"" data-end=""457"">Material:</strong> Lycra de alta calidad que se ajusta suavemente al cuerpo, realzando tu figura y ofreciendo una sensaci&oacute;n de segunda piel.</p>
+</li>
+<li data-start=""580"" data-end=""654"">
+<p data-start=""582"" data-end=""654""><strong data-start=""582"" data-end=""593"">Dise&ntilde;o:</strong> Cuello polera que aporta un toque de distinci&oacute;n y elegancia.</p>
+</li>
+<li data-start=""655"" data-end=""781"">
+<p data-start=""657"" data-end=""781""><strong data-start=""657"" data-end=""680"">Detalles pr&aacute;cticos:</strong> Broche ajustable en la entrepierna para facilitar el uso y garantizar comodidad durante todo el d&iacute;a.</p>
+</li>
+<li data-start=""782"" data-end=""915"">
+<p data-start=""784"" data-end=""915""><strong data-start=""784"" data-end=""801"">Versatilidad:</strong> Ideal para combinar con pantalones de vestir, faldas o jeans, adapt&aacute;ndose a looks formales, femeninos o casuales.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""917"" data-end=""985"">Un b&aacute;sico sofisticado y funcional que no puede faltar en tu armario.</p>";;;;;SI;;;;
+body-loud;;;Color;Blanco;Talle;M;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Blanco;Talle;L;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Blanco;Talle;XL;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Bordó;Talle;S;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Bordó;Talle;M;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Bordó;Talle;L;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Bordó;Talle;XL;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Marrón;Talle;S;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Marrón;Talle;M;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Marrón;Talle;L;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Marrón;Talle;XL;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Negro;Talle;S;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Negro;Talle;M;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Negro;Talle;L;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Negro;Talle;XL;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Visón;Talle;S;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Visón;Talle;M;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Visón;Talle;L;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+body-loud;;;Color;Visón;Talle;XL;;;50,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+jean-megan;"Jean megan";Inferiores;Color;Azul;Talle;40;;;110,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""142"" data-end=""354"">Este jean de tiro alto Oxford es perfecto para quienes buscan un estilo cl&aacute;sico con un toque contempor&aacute;neo. Su dise&ntilde;o favorecedor estiliza la figura, realzando las curvas y creando una silueta esbelta y elegante.</p>
+<ul data-start=""356"" data-end=""652"">
+<li data-start=""356"" data-end=""432"">
+<p data-start=""358"" data-end=""432""><strong data-start=""358"" data-end=""371"">Material:</strong> Tela denim Oxford de alta calidad, resistente y confortable.</p>
+</li>
+<li data-start=""433"" data-end=""551"">
+<p data-start=""435"" data-end=""551""><strong data-start=""435"" data-end=""446"">Dise&ntilde;o:</strong> Tiro alto que se ajusta perfectamente a la cintura, brindando comodidad y seguridad durante todo el d&iacute;a.</p>
+</li>
+<li data-start=""552"" data-end=""652"">
+<p data-start=""554"" data-end=""652""><strong data-start=""554"" data-end=""565"">Estilo:</strong> Ideal para combinar en looks casuales o m&aacute;s formales, adapt&aacute;ndose a cualquier ocasi&oacute;n.</p>
+</li>
+</ul>
+<p style=""margin-bottom: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;"">&nbsp;</p>
+<p data-start=""654"" data-end=""721"">Un b&aacute;sico imprescindible que combina durabilidad, estilo y confort.</p>";;;;;SI;;;;45,000.00
+jean-megan;;;Color;Azul;Talle;42;;;110,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;45,000.00
+jean-megan;;;Color;Azul;Talle;38;;;110,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;45,000.00
+jean-megan;;;Color;Azul;Talle;36;;;110,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;45,000.00
+calza-zipper;"Calza zipper";Inferiores;Talle;S;Color;Bordó;;;55,100.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""153"" data-end=""395"">Esta calza de morley combina a la perfecci&oacute;n confort y dise&ntilde;o, ideal para acompa&ntilde;arte en tu d&iacute;a a d&iacute;a sin perder estilo. Su tela suave y flexible se adapta delicadamente a tu cuerpo, brind&aacute;ndote libertad de movimiento y un ajuste favorecedor.</p>
+<ul data-start=""397"" data-end=""787"">
+<li data-start=""397"" data-end=""456"">
+<p data-start=""399"" data-end=""456""><strong data-start=""399"" data-end=""412"">Material:</strong> Morley de alta calidad, suave y resistente.</p>
+</li>
+<li data-start=""457"" data-end=""537"">
+<p data-start=""459"" data-end=""537""><strong data-start=""459"" data-end=""470"">Dise&ntilde;o:</strong> Cintura rebatida que aporta un toque chic y se ajusta c&oacute;modamente.</p>
+</li>
+<li data-start=""538"" data-end=""691"">
+<p data-start=""540"" data-end=""691""><strong data-start=""540"" data-end=""561"">Detalle especial:</strong> Cierres invisibles YKK en la parte interna de la pierna que permiten crear un efecto oxford, transformando tu look con facilidad.</p>
+</li>
+<li data-start=""692"" data-end=""787"">
+<p data-start=""694"" data-end=""787""><strong data-start=""694"" data-end=""711"">Versatilidad:</strong> Dos estilos en una sola prenda para que adaptes tu outfit seg&uacute;n la ocasi&oacute;n.</p>
+</li>
+</ul>
+<p style=""margin-bottom: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;"">&nbsp;</p>
+<p data-start=""789"" data-end=""860"">Una calza funcional y con estilo que no puede faltar en tu guardarropa.</p>";;;;;SI;;;;
+calza-zipper;;;Talle;S;Color;Blanco;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;S;Color;Negro;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;S;Color;Marrón;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;S;Color;Gris;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;M;Color;Bordó;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;M;Color;Blanco;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;M;Color;Negro;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;M;Color;Marrón;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;M;Color;Gris;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;L;Color;Bordó;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;L;Color;Blanco;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;L;Color;Negro;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;L;Color;Marrón;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;L;Color;Gris;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;XL;Color;Bordó;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;XL;Color;Blanco;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;XL;Color;Negro;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;XL;Color;Marrón;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+calza-zipper;;;Talle;XL;Color;Gris;;;55,100.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;"Polera kim";Superiores;Talle;S;Color;Beige;;;47,800.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""167"" data-end=""402"">Este top de morley elastizado es la combinaci&oacute;n perfecta entre confort y dise&ntilde;o moderno. Su corte tipo musculosa con cuello polera lo convierte en un b&aacute;sico vers&aacute;til y actual, ideal para usar solo o como prenda base en m&uacute;ltiples looks.</p>
+<ul data-start=""404"" data-end=""717"">
+<li data-start=""404"" data-end=""507"">
+<p data-start=""406"" data-end=""507""><strong data-start=""406"" data-end=""419"">Material:</strong> Morley elastizado que se adapta al cuerpo con suavidad y brinda libertad de movimiento.</p>
+</li>
+<li data-start=""508"" data-end=""589"">
+<p data-start=""510"" data-end=""589""><strong data-start=""510"" data-end=""521"">Dise&ntilde;o:</strong> Musculosa con polera que equilibra lo casual con un toque elegante.</p>
+</li>
+<li data-start=""590"" data-end=""717"">
+<p data-start=""592"" data-end=""717""><strong data-start=""592"" data-end=""609"">Versatilidad:</strong> Perfecto para combinar con jeans, pantalones sastreros o faldas, logrando un estilo impecable sin esfuerzo.</p>
+</li>
+</ul>
+<p style=""margin-bottom: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;"">&nbsp;</p>
+<p data-start=""719"" data-end=""792"">Sencillo, moderno y c&oacute;modo: el top que no puede faltar en tu guardarropa.</p>";;;;;SI;;;;
+polera-kim;;;Talle;S;Color;Blanco;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;S;Color;Bordó;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;S;Color;Gris;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;S;Color;Negro;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;M;Color;Beige;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;M;Color;Blanco;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;M;Color;Bordó;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;M;Color;Gris;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;M;Color;Negro;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;L;Color;Beige;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;L;Color;Blanco;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;L;Color;Bordó;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;L;Color;Gris;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+polera-kim;;;Talle;L;Color;Negro;;;47,800.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-rain;"Top rain";Superiores;Talle;L;Color;Blanco;;;120,000.00;55,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""188"" data-end=""410"">Este top combina la comodidad del morley elastizado con la delicadeza de un bordado sutil y elegante. Su dise&ntilde;o ajustado se adapta perfectamente a tu figura, brind&aacute;ndote un look femenino, moderno y con un toque distintivo.</p>
+<ul data-start=""412"" data-end=""692"">
+<li data-start=""412"" data-end=""492"">
+<p data-start=""414"" data-end=""492""><strong data-start=""414"" data-end=""427"">Material:</strong> Morley elastizado suave y flexible que acompa&ntilde;a cada movimiento.</p>
+</li>
+<li data-start=""493"" data-end=""584"">
+<p data-start=""495"" data-end=""584""><strong data-start=""495"" data-end=""506"">Dise&ntilde;o:</strong> Corte cl&aacute;sico con bordado delicado que realza la prenda y le da personalidad.</p>
+</li>
+<li data-start=""585"" data-end=""692"">
+<p data-start=""587"" data-end=""692""><strong data-start=""587"" data-end=""604"">Versatilidad:</strong> Ideal para looks casuales con jeans o m&aacute;s arreglados con pantalones sastreros o faldas.</p>
+</li>
+</ul>
+<p data-start=""694"" data-end=""754"">Una prenda b&aacute;sica renovada con un detalle que la hace &uacute;nica.</p>";;;;;SI;;;;
+top-rain;;;Talle;L;Color;Negro;;;120,000.00;55,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-rain;;;Talle;M;Color;Blanco;;;120,000.00;55,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-rain;;;Talle;M;Color;Negro;;;120,000.00;55,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-rain;;;Talle;S;Color;Blanco;;;120,000.00;55,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-rain;;;Talle;S;Color;Negro;;;120,000.00;55,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-lux;"Top lux";Superiores;Color;Negro;Talle;S;;;149,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""230"" data-end=""495"">Este top de fiesta en micro morley con sutil brillo es la elecci&oacute;n perfecta para un look sofisticado y deslumbrante. Su dise&ntilde;o de polera con espalda descubierta aporta sensualidad y elegancia, mientras que el escote elastizado asegura un calce c&oacute;modo y favorecedor.</p>
+<p data-start=""497"" data-end=""633"">El frente y la espalda est&aacute;n realzados con piedras bordadas a mano en un delicado efecto degrad&eacute;, que aporta un toque &uacute;nico y artesanal.</p>
+<ul data-start=""635"" data-end=""1003"">
+<li data-start=""635"" data-end=""721"">
+<p data-start=""637"" data-end=""721""><strong data-start=""637"" data-end=""650"">Material:</strong> Micro morley con leve brillo, ideal para eventos y salidas especiales.</p>
+</li>
+<li data-start=""722"" data-end=""811"">
+<p data-start=""724"" data-end=""811""><strong data-start=""724"" data-end=""735"">Dise&ntilde;o:</strong> Polera con espalda descubierta y escote elastizado que se adapta al cuerpo.</p>
+</li>
+<li data-start=""812"" data-end=""891"">
+<p data-start=""814"" data-end=""891""><strong data-start=""814"" data-end=""827"">Detalles:</strong> Bordado a mano con piedras en frente y espalda, efecto degrad&eacute;.</p>
+</li>
+<li data-start=""892"" data-end=""1003"">
+<p data-start=""894"" data-end=""1003""><strong data-start=""894"" data-end=""905"">Estilo:</strong> Perfecto para combinar con faldas, pantalones sastreros o jeans para un look de noche impactante.</p>
+</li>
+</ul>
+<p data-start=""1005"" data-end=""1072"">Una prenda que resalta tu estilo y te hace brillar en cada ocasi&oacute;n.</p>";;;;;SI;;;;
+top-lux;;;Color;Negro;Talle;M;;;14,900.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-lux;;;Color;Negro;Talle;L;;;14,900.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-lux;;;Color;Negro;Talle;XL;;;149,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;"Vestido kenia";Superiores;Talle;S;Color;Gris;;;80,000.00;50,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""159"" data-end=""397"">Este vestido confeccionado en tela waffle angora combina comodidad, calidez y un dise&ntilde;o elegante que realza la silueta. Su textura &uacute;nica, suave al tacto, aporta un toque sofisticado y acogedor, ideal para acompa&ntilde;arte en cualquier ocasi&oacute;n.</p>
+<ul data-start=""399"" data-end=""745"">
+<li data-start=""399"" data-end=""487"">
+<p data-start=""401"" data-end=""487""><strong data-start=""401"" data-end=""414"">Material:</strong> Waffle angora, c&aacute;lido y suave, perfecto para entretiempo o d&iacute;as frescos.</p>
+</li>
+<li data-start=""488"" data-end=""565"">
+<p data-start=""490"" data-end=""565""><strong data-start=""490"" data-end=""501"">Dise&ntilde;o:</strong> Corte favorecedor que se adapta al cuerpo sin perder comodidad.</p>
+</li>
+<li data-start=""566"" data-end=""651"">
+<p data-start=""568"" data-end=""651""><strong data-start=""568"" data-end=""585"">Versatilidad:</strong> Ideal tanto para salidas informales como para eventos especiales.</p>
+</li>
+<li data-start=""652"" data-end=""745"">
+<p data-start=""654"" data-end=""745""><strong data-start=""654"" data-end=""666"">Colores:</strong> Disponible en varios tonos para que elijas el que mejor se adapte a tu estilo.</p>
+</li>
+</ul>
+<p data-start=""747"" data-end=""856"">Un vestido que equilibra a la perfecci&oacute;n confort y estilo, convirti&eacute;ndose en un infaltable de tu guardarropa.</p>";;;;;SI;;;;
+vestido-kenia;;;Talle;S;Color;Blanco;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;S;Color;Beige;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;S;Color;Negro;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;M;Color;Gris;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;M;Color;Blanco;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;M;Color;Beige;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;M;Color;Negro;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;L;Color;Gris;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;L;Color;Blanco;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;L;Color;Beige;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-kenia;;;Talle;L;Color;Negro;;;80,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;"Vestido Zaira";Superiores;Talle;M;Color;Negro;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p style=""margin-bottom: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;"">El vestido Zaira est&aacute; confeccionado en lycra liviana, lo que lo convierte en una prenda c&oacute;moda, fresca y con ca&iacute;da suave. Su dise&ntilde;o simple pero elegante se adapta perfectamente al cuerpo, realzando la figura sin esfuerzo.</p>";;;;;SI;;;;
+vestido-zaira;;;Talle;M;Color;"Gris Oscuro";;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;M;Color;Bordó;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;M;Color;Marrón;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;M;Color;"Verde inglés";;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;L;Color;Negro;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;L;Color;"Gris Oscuro";;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;L;Color;Bordó;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;L;Color;Marrón;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;L;Color;"Verde inglés";;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;S;Color;Negro;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;S;Color;"Gris Oscuro";;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;S;Color;Bordó;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;S;Color;Marrón;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;S;Color;"Verde inglés";;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;XL;Color;Negro;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;XL;Color;"Gris Oscuro";;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;XL;Color;Bordó;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;XL;Color;Marrón;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-zaira;;;Talle;XL;Color;"Verde inglés";;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+falda-bardot;"Falda bardot";Inferiores;Talle;S;Color;Bordó;;;67,800.00;50,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""179"" data-end=""427"">Confeccionada en 100% cuero vegano de peso estructurado, esta mini falda combina elegancia, dise&ntilde;o y actitud. Su delantero doble aporta un toque diferencial, mientras que el cierre invisible y las pinzas en la espalda garantizan un calce impecable.</p>
+<ul data-start=""429"" data-end=""755"">
+<li data-start=""429"" data-end=""506"">
+<p data-start=""431"" data-end=""506""><strong data-start=""431"" data-end=""444"">Material:</strong> Cuero vegano pesado, con textura firme y acabado sofisticado.</p>
+</li>
+<li data-start=""507"" data-end=""588"">
+<p data-start=""509"" data-end=""588""><strong data-start=""509"" data-end=""520"">Dise&ntilde;o:</strong> Delantero doble, cierre invisible y pinzas para un ajuste perfecto.</p>
+</li>
+<li data-start=""589"" data-end=""669"">
+<p data-start=""591"" data-end=""669""><strong data-start=""591"" data-end=""604"">Detalles:</strong> Ruedo termofijado que mantiene la forma y estructura con el uso.</p>
+</li>
+<li data-start=""670"" data-end=""755"">
+<p data-start=""672"" data-end=""755""><strong data-start=""672"" data-end=""683"">Estilo:</strong> Femenina, moderna y vers&aacute;til, ideal para destacar en cualquier ocasi&oacute;n.</p>
+</li>
+</ul>
+<p data-start=""757"" data-end=""827"">Una prenda clave que eleva tu outfit con personalidad y sofisticaci&oacute;n.</p>";;;;;SI;;;;
+falda-bardot;;;Talle;S;Color;Negro;;;67,800.00;50,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+falda-bardot;;;Talle;M;Color;Bordó;;;67,800.00;50,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+falda-bardot;;;Talle;M;Color;Negro;;;67,800.00;50,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+falda-bardot;;;Talle;L;Color;Bordó;;;67,800.00;50,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+falda-bardot;;;Talle;L;Color;Negro;;;67,800.00;50,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;"Vestido siena";Superiores;Talle;S;Color;Gris;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""146"" data-end=""333"">El vestido Siena corto est&aacute; dise&ntilde;ado para que te sientas segura, c&oacute;moda y radiante. Confeccionado en tejido micro morley con brillo, te permite destacar con sutileza en cualquier ocasi&oacute;n.</p>
+<ul data-start=""335"" data-end=""679"">
+<li data-start=""335"" data-end=""414"">
+<p data-start=""337"" data-end=""414""><strong data-start=""337"" data-end=""350"">Material:</strong> Micro morley con brillo, suave al tacto y con ca&iacute;da elegante.</p>
+</li>
+<li data-start=""415"" data-end=""506"">
+<p data-start=""417"" data-end=""506""><strong data-start=""417"" data-end=""428"">Dise&ntilde;o:</strong> Frunce diagonal y corte asim&eacute;trico que realzan la figura de manera natural.</p>
+</li>
+<li data-start=""507"" data-end=""609"">
+<p data-start=""509"" data-end=""609""><strong data-start=""509"" data-end=""522"">Detalles:</strong> Manga larga para mayor confort y estilo, ideal para eventos de noche o d&iacute;as frescos.</p>
+</li>
+<li data-start=""610"" data-end=""679"">
+<p data-start=""612"" data-end=""679""><strong data-start=""612"" data-end=""623"">Estilo:</strong> Exclusivo y moderno, pensado para que te sientas &uacute;nica.</p>
+</li>
+</ul>
+<p data-start=""681"" data-end=""762"">Una prenda vers&aacute;til y sofisticada que combina dise&ntilde;o y comodidad a la perfecci&oacute;n.</p>";;;;;SI;;;;
+vestido-siena;;;Talle;S;Color;Bordó;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;S;Color;Negro;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;S;Color;Chocolate;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;M;Color;Gris;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;M;Color;Bordó;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;M;Color;Negro;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;M;Color;Chocolate;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;L;Color;Gris;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;L;Color;Bordó;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;L;Color;Negro;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;L;Color;Chocolate;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;XS;Color;Gris;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;XS;Color;Bordó;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;XS;Color;Negro;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-siena;;;Talle;XS;Color;Chocolate;;;86,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;"Top polera simone";Superiores;Talle;XS;Color;Negro;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""149"" data-end=""356"">El Top Polera Simone es una prenda clave para un look moderno y sofisticado. Su dise&ntilde;o de cuello alto tipo polera aporta un toque chic, mientras que su corte ajustado realza la figura con estilo y sencillez.</p>
+<ul data-start=""358"" data-end=""678"">
+<li data-start=""358"" data-end=""442"">
+<p data-start=""360"" data-end=""442""><strong data-start=""360"" data-end=""371"">Dise&ntilde;o:</strong> Cuello polera y silueta al cuerpo para un look elegante y atemporal.</p>
+</li>
+<li data-start=""443"" data-end=""524"">
+<p data-start=""445"" data-end=""524""><strong data-start=""445"" data-end=""458"">Material:</strong> Tejido suave y flexible que ofrece confort durante todo el d&iacute;a.</p>
+</li>
+<li data-start=""525"" data-end=""602"">
+<p data-start=""527"" data-end=""602""><strong data-start=""527"" data-end=""538"">Estilo:</strong> Ideal para combinar con pantalones sastreros, faldas o jeans.</p>
+</li>
+<li data-start=""603"" data-end=""678"">
+<p data-start=""605"" data-end=""678""><strong data-start=""605"" data-end=""622"">Versatilidad:</strong> Perfecto para el trabajo, salidas o eventos informales.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""680"" data-end=""718"">Un b&aacute;sico infaltable con mucho estilo.</p>";;;;;SI;;;;
+top-polera-simone;;;Talle;XS;Color;Rojo;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;XS;Color;Marrón;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;XS;Color;Plata;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;S;Color;Negro;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;S;Color;Rojo;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;S;Color;Marrón;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;S;Color;Plata;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;M;Color;Negro;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;M;Color;Rojo;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;M;Color;Marrón;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;M;Color;Plata;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;L;Color;Negro;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;L;Color;Rojo;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;L;Color;Marrón;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-polera-simone;;;Talle;L;Color;Plata;;;120,000.00;63,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong1;"Campera strong";Superiores;Color;Gris;Talle;S;;;130,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""156"" data-end=""235""><strong data-start=""156"" data-end=""235"">Campera 2 en 1 de Cuero Vegano Lavado &ndash; &iexcl;Transform&aacute; tu Look en un Instante!</strong></p>
+<p data-start=""237"" data-end=""472"">S&iacute;, le&iacute;ste bien: &iexcl;dos camperas en una! Esta campera de cuero vegano lavado de calidad AAA no solo destaca por su dise&ntilde;o moderno y textura suave, sino que tambi&eacute;n se convierte f&aacute;cilmente en un chaleco, gracias a sus mangas desmontables.</p>
+<ul data-start=""474"" data-end=""868"">
+<li data-start=""474"" data-end=""570"">
+<p data-start=""476"" data-end=""570""><strong data-start=""476"" data-end=""489"">Material:</strong> Cuero vegano lavado (calidad AAA), resistente, flexible y con acabado premium.</p>
+</li>
+<li data-start=""571"" data-end=""666"">
+<p data-start=""573"" data-end=""666""><strong data-start=""573"" data-end=""591"">Dise&ntilde;o 2 en 1:</strong> Usala como campera completa o como chaleco, seg&uacute;n la ocasi&oacute;n o el clima.</p>
+</li>
+<li data-start=""667"" data-end=""755"">
+<p data-start=""669"" data-end=""755""><strong data-start=""669"" data-end=""682"">Detalles:</strong> Cierres met&aacute;licos, costuras reforzadas y corte entallado que estiliza.</p>
+</li>
+<li data-start=""756"" data-end=""868"">
+<p data-start=""758"" data-end=""868""><strong data-start=""758"" data-end=""775"">Versatilidad:</strong> Perfecta para looks urbanos, salidas informales o como pieza de transici&oacute;n entre estaciones.</p>
+</li>
+</ul>
+<p data-start=""870"" data-end=""949"">Una prenda funcional, canchera y con mucha actitud. &iexcl;No vas a querer sac&aacute;rtela!</p>";;;;;SI;;;;
+campera-strong1;;;Color;Gris;Talle;M;;;130,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong1;;;Color;Gris;Talle;L;;;130,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong1;;;Color;Gris;Talle;XL;;;130,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong1;;;Color;Marrón;Talle;S;;;130,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong1;;;Color;Marrón;Talle;M;;;130,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong1;;;Color;Marrón;Talle;L;;;130,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong1;;;Color;Marrón;Talle;XL;;;130,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong;"Campera strong";Superiores;Color;Negro;Talle;S;;;150,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""139"" data-end=""214""><strong data-start=""139"" data-end=""214"">Campera de Cuero Vegano Pesado &ndash; Audacia y Elegancia en una Sola Prenda</strong></p>
+<p data-start=""216"" data-end=""423"">Esta campera est&aacute; pensada para mujeres que buscan un look sofisticado con actitud. Confeccionada en cuero vegano pesado de alta calidad, combina dise&ntilde;o moderno con detalles cl&aacute;sicos que marcan la diferencia.</p>
+<ul data-start=""425"" data-end=""874"">
+<li data-start=""425"" data-end=""536"">
+<p data-start=""427"" data-end=""536""><strong data-start=""427"" data-end=""440"">Material:</strong> Cuero vegano pesado con forro interior suave al tacto, ideal para el entretiempo y el invierno.</p>
+</li>
+<li data-start=""537"" data-end=""672"">
+<p data-start=""539"" data-end=""672""><strong data-start=""539"" data-end=""550"">Dise&ntilde;o:</strong> Recortes estrat&eacute;gicos que aportan originalidad, cuello redondo y presillas en cintura y pu&ntilde;os para un ajuste favorecedor.</p>
+</li>
+<li data-start=""673"" data-end=""758"">
+<p data-start=""675"" data-end=""758""><strong data-start=""675"" data-end=""688"">Detalles:</strong> Botones dorados de zamak que a&ntilde;aden un toque de glamour y distinci&oacute;n.</p>
+</li>
+<li data-start=""759"" data-end=""874"">
+<p data-start=""761"" data-end=""874""><strong data-start=""761"" data-end=""772"">Estilo:</strong> Vers&aacute;til y elegante, perfecta para elevar cualquier outfit, desde uno casual hasta uno m&aacute;s arreglado.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""876"" data-end=""942"">Una prenda de impacto, pensada para destacar en cualquier ocasi&oacute;n.</p>";;;;;SI;;;;
+campera-strong;;;Color;Negro;Talle;M;;;150,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong;;;Color;Negro;Talle;L;;;150,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-strong;;;Color;Negro;Talle;XL;;;150,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-snake;"Trench Snake";Superiores;Color;Blanco;Talle;S;;;190,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""133"" data-end=""197""><strong data-start=""133"" data-end=""197"">Trench de Cuero Vegano Negro &ndash; Elegancia y Detalle Exclusivo</strong></p>
+<p data-start=""199"" data-end=""365"">Este trench, parte de la colecci&oacute;n Iman Exclusive, est&aacute; confeccionado en cuero vegano de alta calidad y dise&ntilde;ado para quienes buscan sofisticaci&oacute;n y estilo atemporal.</p>
+<ul data-start=""367"" data-end=""765"">
+<li data-start=""367"" data-end=""432"">
+<p data-start=""369"" data-end=""432""><strong data-start=""369"" data-end=""382"">Material:</strong> Cuero vegano suave y resistente en color negro.</p>
+</li>
+<li data-start=""433"" data-end=""546"">
+<p data-start=""435"" data-end=""546""><strong data-start=""435"" data-end=""448"">Detalles:</strong> Cintur&oacute;n con hebilla forrada a juego y botones negros que realzan su dise&ntilde;o elegante y cuidado.</p>
+</li>
+<li data-start=""547"" data-end=""651"">
+<p data-start=""549"" data-end=""651""><strong data-start=""549"" data-end=""560"">Dise&ntilde;o:</strong> Corte cl&aacute;sico que estiliza la silueta, ideal para combinar en looks formales o casuales.</p>
+</li>
+<li data-start=""652"" data-end=""765"">
+<p data-start=""654"" data-end=""765""><strong data-start=""654"" data-end=""668"">Colecci&oacute;n:</strong> Perteneciente a la l&iacute;nea exclusiva Iman, que destaca por sus acabados premium y detalles &uacute;nicos.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""767"" data-end=""831"">Un trench que aporta distinci&oacute;n y versatilidad a tu guardarropa.</p>";;;;;SI;;;;
+trench-snake;;;Color;Blanco;Talle;M;;;190,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-snake;;;Color;Blanco;Talle;L;;;190,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-snake;;;Color;Verde;Talle;S;;;190,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-snake;;;Color;Verde;Talle;M;;;190,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-snake;;;Color;Verde;Talle;L;;;190,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;"Trench suede";Superiores;Color;Beige;Talle;S;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""97"" data-end=""168""><strong data-start=""97"" data-end=""168"">Trench Cl&aacute;sico de Suede &ndash; Elegancia y Funcionalidad en Cada Detalle</strong></p>
+<p data-start=""170"" data-end=""303"">Este trench de dise&ntilde;o cl&aacute;sico es la prenda ideal para quienes buscan un look sofisticado y vers&aacute;til, perfecto para cualquier ocasi&oacute;n.</p>
+<ul data-start=""305"" data-end=""803"">
+<li data-start=""305"" data-end=""420"">
+<p data-start=""307"" data-end=""420""><strong data-start=""307"" data-end=""320"">Material:</strong> Suede de primera calidad, forrado y entretelado para mayor protecci&oacute;n contra el fr&iacute;o y la lluvia.</p>
+</li>
+<li data-start=""421"" data-end=""553"">
+<p data-start=""423"" data-end=""553""><strong data-start=""423"" data-end=""434"">Dise&ntilde;o:</strong> Charreteras en los hombros que aportan estructura y autoridad, pu&ntilde;os con hebilla met&aacute;lica para un toque sofisticado.</p>
+</li>
+<li data-start=""554"" data-end=""637"">
+<p data-start=""556"" data-end=""637""><strong data-start=""556"" data-end=""569"">Detalles:</strong> Botones de pasta negros que complementan el estilo con elegancia.</p>
+</li>
+<li data-start=""638"" data-end=""716"">
+<p data-start=""640"" data-end=""716""><strong data-start=""640"" data-end=""650"">Corte:</strong> Impecable, pensado para realzar la silueta y ofrecer comodidad.</p>
+</li>
+<li data-start=""717"" data-end=""803"">
+<p data-start=""719"" data-end=""803""><strong data-start=""719"" data-end=""735"">Durabilidad:</strong> Una inversi&oacute;n atemporal que te acompa&ntilde;ar&aacute; temporada tras temporada.</p>
+</li>
+</ul>
+<p data-start=""805"" data-end=""878"">Un trench que combina estilo, calidad y funcionalidad en una sola prenda.</p>";;;;;SI;;;;
+trench-suede;;;Color;Beige;Talle;M;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Beige;Talle;L;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Beige;Talle;XL;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Bordó;Talle;S;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Bordó;Talle;M;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Bordó;Talle;L;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Bordó;Talle;XL;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Marrón;Talle;S;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Marrón;Talle;M;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Marrón;Talle;L;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Marrón;Talle;XL;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Gris;Talle;S;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Gris;Talle;M;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Gris;Talle;L;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-suede;;;Color;Gris;Talle;XL;;;400,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-rainproof;"Trench rainproof";Superiores;Color;CREMA;Talle;S;;;368,000.00;230,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""103"" data-end=""167""><strong data-start=""103"" data-end=""167"">Trench Waterproof &ndash; Protecci&oacute;n y Estilo para los D&iacute;as Grises</strong></p>
+<p data-start=""169"" data-end=""445"">Este trench confeccionado en tela waterproof de alta calidad es la prenda ideal para mantenerte elegante y a la moda sin importar el clima. Su dise&ntilde;o sofisticado y detalles &uacute;nicos te garantizan protecci&oacute;n total contra el viento y la lluvia, sin sacrificar estilo ni comodidad.</p>
+<ul data-start=""447"" data-end=""989"">
+<li data-start=""447"" data-end=""550"">
+<p data-start=""449"" data-end=""550""><strong data-start=""449"" data-end=""462"">Material:</strong> Trench waterproof resistente al agua, con forro interior que brinda abrigo y confort.</p>
+</li>
+<li data-start=""551"" data-end=""634"">
+<p data-start=""553"" data-end=""634""><strong data-start=""553"" data-end=""568"">Estructura:</strong> Entretelado que asegura una ca&iacute;da impecable y realza el dise&ntilde;o.</p>
+</li>
+<li data-start=""635"" data-end=""881"">
+<p data-start=""637"" data-end=""659""><strong data-start=""637"" data-end=""657"">Detalles &uacute;nicos:</strong></p>
+<ul data-start=""662"" data-end=""881"">
+<li data-start=""662"" data-end=""739"">
+<p data-start=""664"" data-end=""739"">Charretera extra larga en el hombro para un toque original y sofisticado.</p>
+</li>
+<li data-start=""742"" data-end=""804"">
+<p data-start=""744"" data-end=""804"">Charretera com&uacute;n en el pu&ntilde;o que aporta un detalle cl&aacute;sico.</p>
+</li>
+<li data-start=""807"" data-end=""881"">
+<p data-start=""809"" data-end=""881"">Canes&uacute; suelto en delantero y espalda, que genera movimiento y fluidez.</p>
+</li>
+</ul>
+</li>
+<li data-start=""882"" data-end=""989"">
+<p data-start=""884"" data-end=""989""><strong data-start=""884"" data-end=""895"">Cierre:</strong> Botones combinados con cintur&oacute;n ajustable para crear diferentes estilos seg&uacute;n tu preferencia.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""991"" data-end=""1070"">Un trench vers&aacute;til y chic que eleva cualquier look, desde vestidos hasta jeans.</p>";;;;;SI;;;;
+trench-rainproof;;;Color;CREMA;Talle;M;;;368,000.00;230,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-rainproof;;;Color;CREMA;Talle;L;;;368,000.00;230,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+trench-rainproof;;;Color;CREMA;Talle;XL;;;368,000.00;230,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+anillo-calma;"Anillo Calma";"Accesorios  > Anillo";;;;;;;25,000.00;;0.00;0.00;0.00;0.00;0;;;SI;NO;"<p data-start=""82"" data-end=""146""><strong data-start=""82"" data-end=""146"">Anillo Calma &ndash; Elegancia y Simplicidad para tu Estilo Diario</strong></p>
+<p data-start=""148"" data-end=""359"">El Anillo Calma es una pieza delicada y vers&aacute;til que aporta un toque sutil de sofisticaci&oacute;n a cualquier look. Su dise&ntilde;o minimalista y acabado pulido hacen que sea ideal para usar solo o combinar con otras joyas</p>
+<p>&nbsp;</p>
+<p data-start=""363"" data-end=""440"">&nbsp;</p>";;;;;SI;;;;
+collar-kim;"Collar kim";"Accesorios  > Collares";;;;;;;40,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""81"" data-end=""128""><strong data-start=""81"" data-end=""128"">Collar Coraz&oacute;n Kim &ndash; Un Detalle que Enamora</strong></p>
+<p>&nbsp;</p>
+<p data-start=""130"" data-end=""359"">Este collar delicado y femenino presenta un colgante en forma de coraz&oacute;n que simboliza amor y ternura. Perfecto para usar solo o combinado con otras piezas, es el accesorio ideal para darle un toque rom&aacute;ntico y moderno a tu look.</p>";;;;;SI;;;;
+pandora;Pandora;"Accesorios  > Pulseras ";;;;;;;60,000.00;;0.00;0.00;0.00;0.00;0;;;SI;NO;"<p>Esta pulsera Pandora es el accesorio perfecto para expresar tu personalidad y recuerdos a trav&eacute;s de sus dijes &uacute;nicos y significativos. Cada dije a&ntilde;ade un toque especial, convirtiendo esta pieza en un reflejo de tu historia y estilo.</p>";;;;;SI;;;;
+aro-debbie;"Aro Debbie";"Accesorios  > Aros";;;;;;;27,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p>El aro Debbie es la pieza ideal para quienes buscan un accesorio que combine elegancia y versatilidad. Su dise&ntilde;o contempor&aacute;neo y acabado impecable lo convierten en un must-have para cualquier ocasi&oacute;n.</p>";;;;;SI;;;;
+top-scarf;"Top scarf";Superiores;Color;Bordó;;;;;60,300.00;45,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""125"" data-end=""200""><strong data-start=""125"" data-end=""200"">Top Strapless de Lycra con Bufanda Integrada &ndash; Versatilidad y Elegancia</strong></p>
+<p data-start=""202"" data-end=""412"">Este top strapless confeccionado en lycra de alta calidad es la prenda perfecta para quienes buscan un look moderno y sofisticado. Su dise&ntilde;o sin breteles realza tus hombros con un toque de sensualidad y estilo.</p>
+<ul data-start=""414"" data-end=""837"">
+<li data-start=""414"" data-end=""515"">
+<p data-start=""416"" data-end=""515""><strong data-start=""416"" data-end=""429"">Material:</strong> Lycra premium que se adapta suavemente al cuerpo, ofreciendo comodidad y seguridad.</p>
+</li>
+<li data-start=""516"" data-end=""622"">
+<p data-start=""518"" data-end=""622""><strong data-start=""518"" data-end=""529"">Dise&ntilde;o:</strong> Top strapless con bufanda unida desde la espalda, que aporta sofisticaci&oacute;n y originalidad.</p>
+</li>
+<li data-start=""623"" data-end=""748"">
+<p data-start=""625"" data-end=""748""><strong data-start=""625"" data-end=""642"">Versatilidad:</strong> La bufanda integrada permite m&uacute;ltiples estilos, ideal para combinar seg&uacute;n la ocasi&oacute;n y tu personalidad.</p>
+</li>
+<li data-start=""749"" data-end=""837"">
+<p data-start=""751"" data-end=""837""><strong data-start=""751"" data-end=""762"">Estilo:</strong> Perfecto para eventos casuales o formales, creando looks frescos y &uacute;nicos.</p>
+</li>
+</ul>
+<p data-start=""839"" data-end=""922"">Una pieza imprescindible para renovar tu guardarropa con elegancia y funcionalidad.</p>";;;;;SI;;;;
+top-scarf;;;Color;Negro;;;;;60,300.00;45,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-scarf;;;Color;Marrón;;;;;60,300.00;45,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-scarf;;;Color;Visón;;;;;60,300.00;45,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-scarf;;;Color;Beige;;;;;60,300.00;45,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;"Blazer suede";Superiores;Color;Beige;Talle;S;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""102"" data-end=""169""><strong data-start=""102"" data-end=""169"">Blazer de Suede &ndash; Moderno, Sofisticado y con Mucha Personalidad</strong></p>
+<p data-start=""171"" data-end=""416"">Este blazer confeccionado en suede es la opci&oacute;n perfecta para mujeres que buscan una prenda &uacute;nica que combine estilo y funcionalidad. Su dise&ntilde;o con recortes y pespuntes aporta un aire moderno y elegante, ideal para destacar en cualquier ocasi&oacute;n.</p>
+<ul data-start=""418"" data-end=""800"">
+<li data-start=""418"" data-end=""522"">
+<p data-start=""420"" data-end=""522""><strong data-start=""420"" data-end=""433"">Material:</strong> Suede de alta calidad, forrado y entretelado para una estructura impecable y duradera.</p>
+</li>
+<li data-start=""523"" data-end=""608"">
+<p data-start=""525"" data-end=""608""><strong data-start=""525"" data-end=""536"">Dise&ntilde;o:</strong> Recortes estrat&eacute;gicos y pespuntes que realzan el estilo y la silueta.</p>
+</li>
+<li data-start=""609"" data-end=""713"">
+<p data-start=""611"" data-end=""713""><strong data-start=""611"" data-end=""624"">Detalles:</strong> Dos bolsillos aplicados en la parte delantera que combinan funcionalidad con est&eacute;tica.</p>
+</li>
+<li data-start=""714"" data-end=""800"">
+<p data-start=""716"" data-end=""800""><strong data-start=""716"" data-end=""726"">Corte:</strong> Favorecedor y pensado para ofrecer comodidad y elegancia al mismo tiempo.</p>
+</li>
+</ul>
+<p data-start=""802"" data-end=""888"">Un blazer imprescindible que eleva cualquier look con su dise&ntilde;o cuidado y sofisticado.</p>";;;;;SI;;;;
+blazer-suede;;;Color;Beige;Talle;M;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Beige;Talle;L;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Beige;Talle;XL;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Bordó;Talle;S;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Bordó;Talle;M;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Bordó;Talle;L;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Bordó;Talle;XL;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Marrón;Talle;S;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Marrón;Talle;M;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Marrón;Talle;L;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Marrón;Talle;XL;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Gris;Talle;S;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Gris;Talle;M;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Gris;Talle;L;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-suede;;;Color;Gris;Talle;XL;;;330,000.00;142,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;"Blazer tom";Superiores;Color;Gris;Talle;S;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""113"" data-end=""188""><strong data-start=""113"" data-end=""188"">Blazer Oversize de Tela Sastrera &ndash; Modernidad y Elegancia con Comodidad</strong></p>
+<p data-start=""190"" data-end=""467"">Este blazer oversize es perfecto para quienes buscan un look contempor&aacute;neo y sofisticado sin sacrificar comodidad. Su dise&ntilde;o amplio y relajado permite total libertad de movimiento, mientras que la tela sastrera de alta calidad asegura una ca&iacute;da impecable y un acabado elegante.</p>
+<ul data-start=""469"" data-end=""910"">
+<li data-start=""469"" data-end=""568"">
+<p data-start=""471"" data-end=""568""><strong data-start=""471"" data-end=""484"">Material:</strong> Tela sastrera premium, con forro interior que brinda confort y mayor durabilidad.</p>
+</li>
+<li data-start=""569"" data-end=""639"">
+<p data-start=""571"" data-end=""639""><strong data-start=""571"" data-end=""582"">Dise&ntilde;o:</strong> Corte oversize que combina estilo moderno y comodidad.</p>
+</li>
+<li data-start=""640"" data-end=""910"">
+<p data-start=""642"" data-end=""657""><strong data-start=""642"" data-end=""655"">Detalles:</strong></p>
+<ul data-start=""660"" data-end=""910"">
+<li data-start=""660"" data-end=""743"">
+<p data-start=""662"" data-end=""743"">Bolsillos ojal con tapa y un bolsillo ojal delantero, funcionales y con estilo.</p>
+</li>
+<li data-start=""746"" data-end=""813"">
+<p data-start=""748"" data-end=""813"">Hombreras que realzan la figura y garantizan un calce perfecto.</p>
+</li>
+<li data-start=""816"" data-end=""910"">
+<p data-start=""818"" data-end=""910"">Botones de pasta al tono: dos en delantero y tres en cada pu&ntilde;o, para un acabado sofisticado.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""912"" data-end=""976"">Una prenda clave para un guardarropa vers&aacute;til y lleno de estilo.</p>";;;;;SI;;;;
+blazer-tom;;;Color;Gris;Talle;M;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Gris;Talle;L;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Gris;Talle;XL;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Visón;Talle;S;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Visón;Talle;M;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Visón;Talle;L;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Visón;Talle;XL;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Marrón;Talle;S;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Marrón;Talle;M;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Marrón;Talle;L;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;Marrón;Talle;XL;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;"Verde Militar";Talle;S;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;"Verde Militar";Talle;M;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;"Verde Militar";Talle;L;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-tom;;;Color;"Verde Militar";Talle;XL;;;250,000.00;88,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;"Top stripe";Superiores;Color;Gris;Talle;XS;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p>Este top confeccionado en lycra de alta calidad ofrece un dise&ntilde;o simple y sofisticado que realza tu figura con un corte ajustado y favorecedor. Perfecto para combinar con diferentes prendas y crear looks elegantes tanto de d&iacute;a como de noche.</p>";;;;;SI;;;;
+top-stripe1;;;Color;Gris;Talle;S;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Gris;Talle;M;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Gris;Talle;L;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Bordó;Talle;XS;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Bordó;Talle;S;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Bordó;Talle;M;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Bordó;Talle;L;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Blanco;Talle;XS;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Blanco;Talle;S;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Blanco;Talle;M;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Blanco;Talle;L;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Negro;Talle;XS;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Negro;Talle;S;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Negro;Talle;M;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+top-stripe1;;;Color;Negro;Talle;L;;;44,000.00;35,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-wavy;"Vestido wavy";Superiores;Color;Bordó;;;;;70,000.00;55,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""96"" data-end=""171""><strong data-start=""96"" data-end=""171"">Vestido Corto de Microtul con Textura Bordada &ndash; Rom&aacute;ntico y Sofisticado</strong></p>
+<p data-start=""173"" data-end=""417"">Este vestido corto confeccionado en microtul con textura bordada es ideal para la mujer que busca un look elegante, femenino y con un toque de sensualidad. Su dise&ntilde;o incluye un cut out lateral que realza la figura de manera sutil y sofisticada.</p>
+<ul data-start=""419"" data-end=""798"">
+<li data-start=""419"" data-end=""537"">
+<p data-start=""421"" data-end=""537""><strong data-start=""421"" data-end=""434"">Material:</strong> Microtul bordado, delicado y suave al tacto, con una ca&iacute;da fluida que aporta movimiento y comodidad.</p>
+</li>
+<li data-start=""538"" data-end=""671"">
+<p data-start=""540"" data-end=""671""><strong data-start=""540"" data-end=""551"">Dise&ntilde;o:</strong> Cut out lateral para un detalle sensual y tiras ajustables que permiten personalizar el fruncido y el calce perfecto.</p>
+</li>
+<li data-start=""672"" data-end=""798"">
+<p data-start=""674"" data-end=""798""><strong data-start=""674"" data-end=""685"">Estilo:</strong> Perfecto para ocasiones especiales o noches de verano donde quer&eacute;s destacar con un look rom&aacute;ntico e inolvidable.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""800"" data-end=""887"">Combinalo con sandalias de taco alto y accesorios delicados para un outfit que enamora.</p>";;;;;SI;;;;
+vestido-wavy;;;Color;Blanco;;;;;70,000.00;55,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+vestido-wavy;;;Color;Negro;;;;;70,000.00;55,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+tapado-glen1;"Tapado glen";Superiores;Color;Beige;;;;;730,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""128"" data-end=""192""><strong data-start=""128"" data-end=""192"">Saco Largo de Pa&ntilde;o &ndash; Elegancia Atemporal para los D&iacute;as Fr&iacute;os</strong></p>
+<p data-start=""194"" data-end=""450"">Parte de la <strong data-start=""206"" data-end=""234"">Colecci&oacute;n Iman Exclusive</strong>, este saco largo de pa&ntilde;o combina dise&ntilde;o cl&aacute;sico con detalles modernos, ofreciendo una prenda vers&aacute;til, abrigada y con un estilo sofisticado. Ideal para acompa&ntilde;arte en los d&iacute;as m&aacute;s fr&iacute;os sin renunciar a la elegancia.</p>
+<ul data-start=""452"" data-end=""786"">
+<li data-start=""452"" data-end=""569"">
+<p data-start=""454"" data-end=""569""><strong data-start=""454"" data-end=""467"">Material:</strong> Pa&ntilde;o de alta calidad (20% lana &ndash; 80% poli&eacute;ster) que brinda abrigo, durabilidad y una textura suave.</p>
+</li>
+<li data-start=""570"" data-end=""718"">
+<p data-start=""572"" data-end=""718""><strong data-start=""572"" data-end=""583"">Dise&ntilde;o:</strong> Corte cl&aacute;sico con hombreras integradas que realzan la figura y un cintur&oacute;n regulable que permite ajustar la silueta seg&uacute;n tu estilo.</p>
+</li>
+<li data-start=""719"" data-end=""786"">
+<p data-start=""721"" data-end=""786""><strong data-start=""721"" data-end=""742"">Interior forrado:</strong> Mayor confort y terminaciones impecables.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""788"" data-end=""980"">Perfecto para looks urbanos, formales o casuales. Ll&eacute;valo con jeans y botas para el d&iacute;a a d&iacute;a o sobre un vestido para un evento especial. Un esencial de temporada con toda la impronta de Iman.</p>";;;;;SI;;;;
+tapado-glen1;;;Color;Marrón;;;;;730,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+tapado-glen1;;;Color;Gris;;;;;730,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+tapado-glen1;;;Color;"Blanco & Negro";;;;;730,000.00;250,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+tapado-glen;"Tapado glen";Superiores;Color;Beige;;;;;320,000.00;150,000.00;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p data-start=""166"" data-end=""215""><strong data-start=""166"" data-end=""215"">Saco Largo de Pa&ntilde;o &ndash; Colecci&oacute;n Iman Exclusive</strong></p>
+<p data-start=""217"" data-end=""449"">Elegancia, abrigo y versatilidad se unen en este saco largo de pa&ntilde;o, ideal para lucir impecable durante los d&iacute;as fr&iacute;os. Con un dise&ntilde;o cl&aacute;sico que se adapta a cualquier ocasi&oacute;n, es una prenda infaltable en tu guardarropa de invierno.</p>
+<ul data-start=""451"" data-end=""803"">
+<li data-start=""451"" data-end=""550"">
+<p data-start=""453"" data-end=""550""><strong data-start=""453"" data-end=""462"">Tela:</strong> Pa&ntilde;o de alta calidad (20% lana &ndash; 80% poli&eacute;ster), c&aacute;lido, resistente y suave al tacto.</p>
+</li>
+<li data-start=""551"" data-end=""621"">
+<p data-start=""553"" data-end=""621""><strong data-start=""553"" data-end=""572"">Forro interior:</strong> Proporciona confort y una terminaci&oacute;n prolija.</p>
+</li>
+<li data-start=""622"" data-end=""692"">
+<p data-start=""624"" data-end=""692""><strong data-start=""624"" data-end=""649"">Hombreras integradas:</strong> Realzan la silueta y aportan estructura.</p>
+</li>
+<li data-start=""693"" data-end=""803"">
+<p data-start=""695"" data-end=""803""><strong data-start=""695"" data-end=""718"">Cintur&oacute;n regulable:</strong> Permite ajustar la prenda a tu estilo, ya sea para un look suelto o m&aacute;s entallado.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""805"" data-end=""979"">Perfecto para combinar con jeans y remera para un look urbano o con un vestido elegante en eventos especiales. Una prenda vers&aacute;til y sofisticada que eleva cualquier conjunto.</p>";;;;;SI;;;;
+tapado-glen;;;Color;Negro;;;;;320,000.00;150,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;
+tapado-glen;;;Color;Visón;;;;;320,000.00;150,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;
+tapado-glen;;;Color;Camel;;;;;320,000.00;150,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;
+tapado-soft-corto1;"Tapado soft corto";Superiores;Color;Marrón;;;;;450,000.00;150,000.00;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p data-start=""142"" data-end=""198""><strong data-start=""142"" data-end=""198"">Tapado Corto de Piel Sint&eacute;tica &ndash; Colecci&oacute;n Exclusive</strong></p>
+<p data-start=""200"" data-end=""426"">Una prenda clave para elevar tus looks de invierno. Este tapado corto confeccionado en <strong data-start=""287"" data-end=""322"">piel sint&eacute;tica suave y el&aacute;stica</strong> combina estilo, abrigo y funcionalidad, adapt&aacute;ndose perfectamente a tu figura sin sacrificar comodidad.</p>
+<ul data-start=""428"" data-end=""709"">
+<li data-start=""428"" data-end=""503"">
+<p data-start=""430"" data-end=""503""><strong data-start=""430"" data-end=""439"">Tela:</strong> Piel sint&eacute;tica de alta calidad, con textura suave y flexible.</p>
+</li>
+<li data-start=""504"" data-end=""633"">
+<p data-start=""506"" data-end=""633""><strong data-start=""506"" data-end=""527"">Dise&ntilde;o funcional:</strong> Bolsillos laterales pr&aacute;cticos y botones de pasta al tono que completan el look con un detalle elegante.</p>
+</li>
+<li data-start=""634"" data-end=""709"">
+<p data-start=""636"" data-end=""709""><strong data-start=""636"" data-end=""651"">Fit c&oacute;modo:</strong> Largo ideal para combinar con distintos tipos de prendas.</p>
+</li>
+</ul>
+<p data-start=""711"" data-end=""911""><strong data-start=""711"" data-end=""733"">Vers&aacute;til y moderno</strong>, pod&eacute;s llevarlo con jeans y botines para un outfit urbano, o con vestido y botas altas para un estilo m&aacute;s sofisticado. Una prenda que suma abrigo y actitud a cualquier conjunto.</p>";;;;;SI;;;;
+tapado-soft-corto;"Tapado soft corto";Superiores;Color;Gris;;;;;440,000.00;220,000.00;0.00;0.00;0.00;0.00;4;;;SI;NO;"<p data-start=""130"" data-end=""191""><strong data-start=""130"" data-end=""191"">Tapado Corto de Piel Sint&eacute;tica &ndash; Colecci&oacute;n Iman Exclusive</strong></p>
+<p data-start=""193"" data-end=""423"">Elegante, c&oacute;modo y vers&aacute;til: este tapado corto de piel sint&eacute;tica es una prenda infaltable para elevar tus looks de temporada. Su textura suave y el&aacute;stica se adapta con delicadeza a tu silueta, brind&aacute;ndote abrigo sin perder estilo.</p>
+<ul data-start=""425"" data-end=""723"">
+<li data-start=""425"" data-end=""508"">
+<p data-start=""427"" data-end=""508""><strong data-start=""427"" data-end=""436"">Tela:</strong> Piel sint&eacute;tica de alta calidad, suave al tacto y con excelente ca&iacute;da.</p>
+</li>
+<li data-start=""509"" data-end=""636"">
+<p data-start=""511"" data-end=""636""><strong data-start=""511"" data-end=""536"">Detalles funcionales:</strong> Bolsillos laterales pr&aacute;cticos y botones de pasta que complementan el dise&ntilde;o con un toque moderno.</p>
+</li>
+<li data-start=""637"" data-end=""723"">
+<p data-start=""639"" data-end=""723""><strong data-start=""639"" data-end=""658"">Dise&ntilde;o moderno:</strong> Corte recto y largo ideal para combinar con todo tu guardarropa.</p>
+</li>
+</ul>
+<p data-start=""725"" data-end=""900"">Perfecto para armar looks urbanos con jeans y botines, o para un estilo m&aacute;s sofisticado con vestidos y botas altas. Un abrigo con personalidad que te acompa&ntilde;a en cada ocasi&oacute;n.</p>";;;;;SI;;;;
+bufanda-glen;"Bufanda glen";Superiores;Color;Negro;;;;;40,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""115"" data-end=""167""><strong data-start=""115"" data-end=""167"">Bufanda de Pa&ntilde;o &ndash; Suavidad y Elegancia Atemporal</strong></p>
+<p data-start=""169"" data-end=""446"">Cl&aacute;sica, vers&aacute;til y con un toque de distinci&oacute;n. Esta bufanda de pa&ntilde;o es el accesorio ideal para sumar calidez y estilo a cualquier outfit. Su textura suave y su acabado refinado la convierten en un complemento imprescindible para los d&iacute;as frescos y las noches m&aacute;s sofisticadas.</p>
+<p data-start=""448"" data-end=""542"">Perfecta para combinar con tapados, sacos o camperas, aporta un detalle elegante sin esfuerzo.</p>";;;;;SI;;;;
+bufanda-glen;;;Color;Camel;;;;;40,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+bufanda-glen;;;Color;Visón;;;;;40,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+hermes-rojo-dorado;"Hermes Rojo Dorado";"Accesorios  > Pulseras ";;;;;;;55,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Un dise&ntilde;o ic&oacute;nico que combina sofisticaci&oacute;n y estilo. La pulsera Hermes en tono rojo intenso con detalles dorados es el accesorio perfecto para elevar cualquier look. Su acabado brillante y estructura firme la convierten en una pieza elegante y atemporal.</p>";;;;;SI;;;;
+sweater-piper;"Sweater piper";Superiores;Color;Blanco;;;;;90,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""86"" data-end=""129""><strong data-start=""86"" data-end=""129"">Sweater Tejido con Cuello Alto y Cierre</strong></p>
+<p data-start=""131"" data-end=""449"">Confeccionado en un tejido suave y el&aacute;stico (70% acr&iacute;lico, 13% poli&eacute;ster, 3% spandex), este sweater es ideal para acompa&ntilde;arte en los d&iacute;as frescos con estilo y confort. Su cuello alto, protagonista de la temporada, le da un toque moderno y abrigado, mientras que el cierre frontal te permite jugar con diferentes looks.</p>
+<p>&nbsp;</p>
+<p data-start=""451"" data-end=""581"">Vers&aacute;til y c&oacute;modo, combinalo con jeans y zapatillas para un outfit relajado, o con una falda y botas para un look m&aacute;s sofisticado.</p>";;;;;SI;;;;
+sweater-piper;;;Color;Gris;;;;;90,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+sweater-piper;;;Color;Negro;;;;;90,000.00;70,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-bugatti;"Campera bugatti";Superiores;Color;Bordó;;;;;150,000.00;99,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""102"" data-end=""163""><strong data-start=""102"" data-end=""163"">Campera de Crepe Sastrero Forrada con Detalles Deportivos</strong></p>
+<p data-start=""165"" data-end=""425"">Dise&ntilde;ada para los d&iacute;as frescos, esta campera combina funcionalidad, abrigo y estilo. Confeccionada en crepe sastrero de alta calidad, ofrece una excelente ca&iacute;da, resistencia y un toque elegante. Su interior forrado brinda calidez y confort durante todo el d&iacute;a.</p>
+<p data-start=""427"" data-end=""662"">Los cierres met&aacute;licos YKK aseguran un cierre suave y duradero, mientras que los bolsillos laterales aportan practicidad. Las mangas con l&iacute;neas y el logo bordado a contra tono le dan un aire moderno y deportivo que eleva cualquier look.</p>
+<p data-start=""664"" data-end=""720"">Perfecta para un estilo urbano con un toque sofisticado.</p>";;;;;SI;;;;
+campera-bugatti;;;Color;Beige;;;;;150,000.00;99,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-bugatti;;;Color;Negro;;;;;150,000.00;99,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+blazer-crash;"Blazer crash";Superiores;Color;Bordó;;;;;100,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""83"" data-end=""140""><strong data-start=""83"" data-end=""140"">Blazer Slim Fit de Vinil Charolado &ndash; Brillo y actitud</strong></p>
+<p data-start=""142"" data-end=""366"">Este blazer de vinil charolado es la prenda clave para un look audaz y sofisticado. Su corte slim fit realza la figura con un calce moderno y elegante, mientras que el acabado brillante le aporta un toque llamativo y trendy.</p>
+<p data-start=""368"" data-end=""482"">El bot&oacute;n negro al frente completa el dise&ntilde;o con sutileza, permiti&eacute;ndote lucirlo cerrado o abierto seg&uacute;n tu estilo.</p>
+<p data-start=""484"" data-end=""598""><strong data-start=""484"" data-end=""518"">&iquest;Quer&eacute;s un conjunto imbatible?</strong> Combin&aacute; este blazer con el pantal&oacute;n Crash y llev&aacute; tu outfit al siguiente nivel.</p>
+<p data-start=""600"" data-end=""686"">Ideal para salidas nocturnas, eventos especiales o simplemente cuando quer&eacute;s destacar.</p>";;;;;SI;;;;
+blazer-crash;;;Color;Negro;;;;;100,000.00;80,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;"Pantalón bugatti";Inferiores;Color;Bordó;Talle;S;;;70,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""111"" data-end=""179""><strong data-start=""111"" data-end=""179"">Pantal&oacute;n Bugatti Wide Leg &ndash; Estilo relajado con sello distintivo</strong></p>
+<p data-start=""181"" data-end=""404"">Confeccionado en crepe sastrero de alta calidad, el pantal&oacute;n Bugatti combina comodidad y elegancia en una silueta amplia y fluida. Su corte wide leg es ideal para quienes buscan un look moderno, relajado y con mucho estilo.</p>
+<p data-start=""406"" data-end=""617"">El el&aacute;stico en la cintura asegura un calce c&oacute;modo y vers&aacute;til, adapt&aacute;ndose a tu cuerpo con suavidad. Los bolsillos laterales a&ntilde;aden practicidad, mientras que las l&iacute;neas verticales estilizan visualmente la figura.</p>
+<p data-start=""619"" data-end=""726"">Como toque final, el logo bordado a contra tono le suma un detalle sofisticado y sutil que eleva la prenda.</p>
+<p data-start=""728"" data-end=""811""><strong data-start=""728"" data-end=""811"">Usalo con el blazer a juego o con un top b&aacute;sico para un look effortless y chic.</strong></p>";;;;;SI;;;;
+pantalon-bugatti;;;Color;Bordó;Talle;M;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Bordó;Talle;L;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Bordó;Talle;XL;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Blanco;Talle;S;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Blanco;Talle;M;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Blanco;Talle;L;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Blanco;Talle;XL;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Negro;Talle;S;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Negro;Talle;M;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Negro;Talle;L;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Negro;Talle;XL;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Marrón;Talle;S;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Marrón;Talle;M;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Marrón;Talle;L;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Marrón;Talle;XL;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Gris;Talle;S;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Gris;Talle;M;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Gris;Talle;L;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Gris;Talle;XL;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Visón;Talle;S;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Visón;Talle;M;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Visón;Talle;L;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-bugatti;;;Color;Visón;Talle;XL;;;70,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-nirvana-crash;"Pantalón Nirvana Crash";Inferiores;Color;Bordó;Talle;M;;;87,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""90"" data-end=""172""><strong data-start=""90"" data-end=""172"">Pantal&oacute;n de Cuero Vegano Charolado con Doble Costura &ndash; Estilo urbano y moderno</strong></p>
+<p data-start=""174"" data-end=""391"">Este pantal&oacute;n de cuero vegano tipo charol combina el look cl&aacute;sico del jeans con un toque sofisticado y audaz. Su doble costura refuerza el dise&ntilde;o, aportando resistencia y un detalle visual que resalta su estilo &uacute;nico.</p>
+<p data-start=""393"" data-end=""569"">Con calce oxford que se adapta c&oacute;modamente a tu figura y un tajo en la pierna que a&ntilde;ade movimiento y personalidad, es la prenda ideal para un outfit con actitud y versatilidad.</p>
+<p data-start=""571"" data-end=""652"">Perfecto para combinar con prendas b&aacute;sicas o para destacar en tus looks de noche.</p>";;;;;SI;;;;
+pantalon-nirvana-crash;;;Color;Bordó;Talle;L;;;87,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-nirvana-crash;;;Color;Negro;Talle;M;;;87,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-nirvana-crash;;;Color;Negro;Talle;L;;;87,000.00;60,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-tom;"Pantalón tom";Inferiores;Color;Gris;;;;;90,000.00;44,000.00;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""106"" data-end=""177""><strong data-start=""106"" data-end=""177"">Pantal&oacute;n sastrero Tom &ndash; Elegancia y comodidad para la mujer moderna</strong></p>
+<p data-start=""179"" data-end=""483"">El pantal&oacute;n sastrero Tom es una prenda esencial en el guardarropa femenino, pensado para quienes valoran la combinaci&oacute;n perfecta entre estilo y confort. Confeccionado con materiales de alta calidad, su tiro medio-alto ofrece una silueta favorecedora que estiliza y acompa&ntilde;a tu figura durante todo el d&iacute;a.</p>
+<h3 data-start=""485"" data-end=""532"">Dise&ntilde;o y detalles que marcan la diferencia:</h3>
+<ul data-start=""534"" data-end=""1179"">
+<li data-start=""534"" data-end=""695"">
+<p data-start=""536"" data-end=""695""><strong data-start=""536"" data-end=""556"">Corte impecable:</strong> Su l&iacute;nea recta alarga visualmente las piernas y se adapta con facilidad a cualquier ocasi&oacute;n, desde el trabajo hasta una salida nocturna.</p>
+</li>
+<li data-start=""696"" data-end=""801"">
+<p data-start=""698"" data-end=""801""><strong data-start=""698"" data-end=""718"">Tiro medio-alto:</strong> Proporciona soporte y define la cintura para una apariencia elegante y femenina.</p>
+</li>
+<li data-start=""802"" data-end=""913"">
+<p data-start=""804"" data-end=""913""><strong data-start=""804"" data-end=""830"">Bolsillos funcionales:</strong> Bolsillos delanteros pr&aacute;cticos y modernos para llevar tus esenciales con estilo.</p>
+</li>
+<li data-start=""914"" data-end=""1035"">
+<p data-start=""916"" data-end=""1035""><strong data-start=""916"" data-end=""941"">Detalle de sastrer&iacute;a:</strong> Bolsillos ojal falsos en la parte trasera que aportan sofisticaci&oacute;n y distinci&oacute;n al dise&ntilde;o.</p>
+</li>
+<li data-start=""1036"" data-end=""1179"">
+<p data-start=""1038"" data-end=""1179""><strong data-start=""1038"" data-end=""1067"">Versatilidad sin l&iacute;mites:</strong> Comb&iacute;nalo con blusas, camisas, su&eacute;teres o chaquetas para crear looks &uacute;nicos y adaptados a tu estilo personal.</p>
+</li>
+</ul>";;;;;SI;;;;
+pantalon-tom;;;Color;Negro;;;;;90,000.00;44,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-tom;;;Color;Verde;;;;;90,000.00;44,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+pantalon-tom;;;Color;Marrón;;;;;90,000.00;44,000.00;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+schwarzkopf-chroma-id-mascara-de-color-pearl-silver-300ml;"Schwarzkopf Chroma Id Mascara De Color Pearl Silver 300ml";"Cuidados del cabello ";;;;;;;45,000.00;;0.00;0.00;0.00;0.00;3;;;SI;NO;"<p data-start=""142"" data-end=""228""><strong data-start=""142"" data-end=""228"">Schwarzkopf Professional Chroma ID Bonding Colour Mask 9.5-1 Pearl Silver (300 ml)</strong></p>
+<p data-start=""230"" data-end=""384"">Mascarilla colorante semipermanente personalizable, perfecta para mantener tonos pastel y conservar la vitalidad del color desde la comodidad de tu hogar.</p>
+<p data-start=""386"" data-end=""652"">Formulada con tecnolog&iacute;a Bonding, que refuerza la estructura del cabello, y tecnolog&iacute;a Low Salt, que mejora la fijaci&oacute;n del pigmento para un color duradero. Adem&aacute;s, contiene queratina y pantenol para cuidar y sellar la cut&iacute;cula, dejando el cabello suave y protegido.</p>
+<p style=""margin-bottom: 12px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 19px; line-height: normal; font-family: 'Times New Roman'; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: #000000;"">&nbsp;</p>
+<p data-start=""654"" data-end=""822""><strong data-start=""654"" data-end=""670"">Modo de uso:</strong> Aplicar sobre el cabello lavado y secado con toalla. Dejar actuar entre 3 y 15 minutos seg&uacute;n la intensidad deseada. El color dura entre 5 y 12 lavados.</p>
+<p><span style=""font-kerning: none;"">&nbsp;</span></p>";;;;;SI;;;;29,000.00
+schwarzkopf-chroma-id-mascara-pigmentada-cabello-red-x-300ml;"Schwarzkopf Chroma Id Máscara Pigmentada Cabello Red X 300ml";"Cuidados del cabello ";;;;;;;45,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p data-start=""89"" data-end=""235""><strong data-start=""89"" data-end=""151"">Mascarilla pigmentada semipermanente para cabellos te&ntilde;idos</strong><br data-start=""151"" data-end=""154"" />Refresca y realza tonos rojos y cobrizos, devolvi&eacute;ndole vida y brillo a tu color.</p>
+<p data-start=""237"" data-end=""421"">Formulada con tecnolog&iacute;a Bonding, que repara y fortalece el cabello; tecnolog&iacute;a Low Salt, que mejora la fijaci&oacute;n del pigmento; y pantenol para un acondicionamiento profundo y duradero.</p>
+<p data-start=""423"" data-end=""500"">F&oacute;rmula vegana y cruelty-free, respetuosa con tu cabello y el medio ambiente.</p>
+<p data-start=""502"" data-end=""660""><strong data-start=""502"" data-end=""518"">Modo de uso:</strong> Aplicar sobre cabello lavado y secado con toalla. Dejar actuar hasta 10 minutos seg&uacute;n la intensidad deseada. Color duradero hasta 12 lavados.</p>";;;;;SI;;;;29,000.00
+osis-serum-protector-termico-flatliner-x200ml-schwarzkopf;"Osis Serum Protector Termico Flatliner X200ml Schwarzkopf";"Cuidados del cabello ";;;;;;;36,000.00;;0.00;0.00;0.00;0.00;4;;;SI;NO;"<p data-start=""60"" data-end=""133""><strong data-start=""60"" data-end=""79"">OSiS+ Flatliner</strong><br data-start=""79"" data-end=""82"" />Control fuerte con protecci&oacute;n t&eacute;rmica hasta 230 &deg;C.</p>
+<p data-start=""135"" data-end=""221"">Reduce la rotura, combate la humedad y garantiza un acabado liso, uniforme y duradero.</p>
+<p style=""margin-bottom: 12px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 19px; line-height: normal; font-family: 'Times New Roman'; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: #000000;"">&nbsp;</p>
+<p data-start=""223"" data-end=""345""><strong data-start=""223"" data-end=""239"">Modo de uso:</strong> Aplic&aacute; sobre cabello h&uacute;medo, sec&aacute; completamente y pein&aacute; con plancha en secciones para mejores resultados.</p>
+<p><span style=""font-kerning: none;"">&nbsp;</span></p>";;;;;SI;;;;8,000.00
+schwarzkopf-bc-bonacure-frizz-away-mascara-x-500ml;"SCHWARZKOPF BC BONACURE FRIZZ AWAY MÁSCARA X 500ML";"Cuidados del cabello ";;;;;;;55,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p data-start=""101"" data-end=""231""><strong data-start=""101"" data-end=""135"">Schwarzkopf BC Frizz Away Mask</strong><br data-start=""135"" data-end=""138"" />Controla el frizz hasta 72 horas, ideal para cabellos rebeldes, gruesos, rizados u ondulados.</p>
+<p data-start=""233"" data-end=""300"">Nutre profundamente, aporta suavidad, brillo y facilita el peinado.</p>
+<p data-start=""302"" data-end=""392"">F&oacute;rmula 100% vegana, desarrollada de manera sostenible y respetuosa con el medio ambiente.</p>";;;;;SI;;;;
+gorro-perlas;"GORRO PERLAS";"Accesorios  > Gorra ";;;;;;;35,000.00;;0.00;0.00;0.00;0.00;4;;;SI;NO;"<p>Gorro confeccionado en mezcla de lana y alpaca, con detalle de aplicaci&oacute;n de perlas que aporta un toque delicado y elegante. Ideal para abrigarte con estilo en los d&iacute;as fr&iacute;os.</p>";;;;;SI;;;;6,500.00
+mascarilla-schwarzkopf-bc-moisture-kick-500ml;"Mascarilla Schwarzkopf BC Moisture Kick 500ml";"Cuidados del cabello ";;;;;;;55,000.00;;0.00;0.00;0.00;0.00;4;;;SI;NO;"<p data-start=""0"" data-end=""123"">Tratamiento hidratante y fortalecedor para cabello seco, &aacute;spero o quebradizo. Mantiene ondas y rizos flexibles y definidos.</p>
+<p data-start=""125"" data-end=""200"">F&oacute;rmula vegana, sin siliconas, enriquecida con glicerol y queratina vegana.</p>
+<p data-start=""202"" data-end=""253"">Resultado: cabello suave, fuerte y f&aacute;cil de peinar.</p>
+<p>&nbsp;</p>
+<p data-start=""255"" data-end=""340"" data-is-last-node="""" data-is-only-node="""">Modo de uso: aplicar sobre cabello h&uacute;medo, dejar actuar de 5 a 10 minutos y enjuagar.</p>";;;;;SI;;;;28,750.00
+buzo-delta-dvy;"Buzo delta Dvy";Superiores;Talle;14;;;;;40,000.00;;0.00;0.00;0.00;0.00;12;;;SI;NO;"<p>Buzo de friza 100% algod&oacute;n con escote en V.<br data-start=""43"" data-end=""46"" />Disponible en talle 14 (equivalente a M adulto).<br data-start=""94"" data-end=""97"" />C&oacute;modo y perfecto para uso diario.</p>";;;;;SI;;;;
+buzo-delta-dvy;;;Talle;6;;;;;40,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+buzo-delta-dvy;;;Talle;8;;;;;40,000.00;;0.00;0.00;0.00;0.00;8;;;;;;;;;;;;;;
+buzo-delta-dvy;;;Talle;10;;;;;40,000.00;;0.00;0.00;0.00;0.00;4;;;;;;;;;;;;;;
+buzo-delta-dvy;;;Talle;12;;;;;40,000.00;;0.00;0.00;0.00;0.00;6;;;;;;;;;;;;;;
+denim-cargo-unisex-kids;"Denim cargo unisex KIDS";"Kids ";Talle;10;;;;;38,000.00;;0.00;0.00;0.00;0.00;11;;;SI;NO;"<p>Denim cargo unisex para ni&ntilde;os.<br data-start=""30"" data-end=""33"" />Dise&ntilde;o c&oacute;modo y resistente, ideal para el d&iacute;a a d&iacute;a.<br data-start=""85"" data-end=""88"" />Perfecto para que los m&aacute;s chicos disfruten con estilo y libertad de movimiento.</p>";;;;;SI;;;;
+hoodie-stdw-kids-dvy;"Hoodie stdw KIDS DVY";"Kids ";Color;Rosa;Talle;14;;;34,000.00;;0.00;0.00;0.00;0.00;5;;;SI;NO;"<p data-start=""0"" data-end=""20"">Hoodie STDW KIDS DVY</p>
+<p>&nbsp;</p>
+<p data-start=""22"" data-end=""191"" data-is-last-node="""" data-is-only-node="""">Buzo con capucha para ni&ntilde;os, confeccionado en tela DVY que ofrece comodidad y calidez.<br data-start=""108"" data-end=""111"" />Dise&ntilde;o moderno y vers&aacute;til, ideal para el uso diario y actividades al aire libre.</p>";;;;;SI;;;;
+hoodie-stdw-kids-dvy;;;Color;Rosa;Talle;10;;;34,000.00;;0.00;0.00;0.00;0.00;5;;;;;;;;;;;;;;
+hoodie-stdw-kids-dvy;;;Color;Rosa;Talle;8;;;34,000.00;;0.00;0.00;0.00;0.00;4;;;;;;;;;;;;;;
+hoodie-stdw-kids-dvy;;;Color;Rosa;Talle;12;;;34,000.00;;0.00;0.00;0.00;0.00;6;;;;;;;;;;;;;;
+tapado-corderito-bucle-kids;"Tapado corderito bucle KIDS";"Kids ";Color;Gris;Talle;8;;;52,000.00;;0.00;0.00;0.00;0.00;5;;;SI;NO;"<p data-start=""0"" data-end=""27"">Tapado corderito bucle KIDS</p>
+<p>&nbsp;</p>
+<p data-start=""29"" data-end=""216"" data-is-last-node="""" data-is-only-node="""">Abrigo para ni&ntilde;os confeccionado en suave tela de corderito con textura bucle.<br data-start=""106"" data-end=""109"" />Ideal para mantener el calor en los d&iacute;as fr&iacute;os, combina confort y estilo en una prenda pr&aacute;ctica y adorable.</p>";;;;;SI;;;;
+jogger-sport-rose-kids;"Jogger sport rose KIDS";"Kids ";Talle;8;;;;;40,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p data-start=""0"" data-end=""22"">Jogger Sport Rose KIDS</p>
+<p>&nbsp;</p>
+<p data-start=""24"" data-end=""222"" data-is-last-node="""" data-is-only-node="""">Jogger deportivo liviano dise&ntilde;ado para ni&ntilde;os, ideal para sus actividades diarias con comodidad y estilo.<br data-start=""128"" data-end=""131"" />Cuenta con detalle de estampa y logo estampado que le aportan un toque moderno y divertido.</p>";;;;;SI;;;;
+campera-sport-rose-kids;"Campera sport rose KIDS";"Kids ";Talle;8;;;;;40,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p data-start=""0"" data-end=""30"">Campera deportiva liviana rosa</p>
+<p>&nbsp;</p>
+<p data-start=""32"" data-end=""308"" data-is-last-node="""" data-is-only-node="""">Esta campera de tejido liviano es perfecta para que los m&aacute;s chicos disfruten del movimiento con comodidad y estilo.<br data-start=""147"" data-end=""150"" />Destaca por su color rosa vibrante y un detalle de estampado que le da un toque moderno y divertido. Ideal para actividades al aire libre o para el d&iacute;a a d&iacute;a.</p>";;;;;SI;;;;
+set-kitty-kids-dvy;"Set Kitty KIDS DVY";"Kids ";Color;Rosa;Talle;12;;;80,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p data-start=""0"" data-end=""18"">Set Kitty KIDS DVY</p>
+<p>&nbsp;</p>
+<p data-start=""20"" data-end=""272"" data-is-last-node="""" data-is-only-node="""">Conjunto de campera y pantal&oacute;n rosa over confeccionado en tela r&uacute;stica de algod&oacute;n, ideal para la comodidad y el estilo de los m&aacute;s chicos.<br data-start=""157"" data-end=""160"" />Perfecto para acompa&ntilde;ar sus aventuras diarias con un look fresco y moderno, garantizando suavidad y durabilidad.</p>";;;;;SI;;;;
+pantalon-parachutte-kids-dvy;"Pantalón parachutte KIDS DVY";"Kids ";Talle;14;;;;;36,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p data-start=""0"" data-end=""28"">Pantal&oacute;n Parachutte KIDS DVY</p>
+<p>&nbsp;</p>
+<p data-start=""30"" data-end=""290"" data-is-last-node="""" data-is-only-node="""">Pantal&oacute;n jogger confeccionado en parachutte, con cintura tejida que aporta confort y ajuste perfecto.<br data-start=""131"" data-end=""134"" />Dise&ntilde;o de talle amplio para brindar libertad de movimiento y comodidad durante todo el d&iacute;a. Ideal para actividades activas y el d&iacute;a a d&iacute;a de los m&aacute;s chicos.</p>";;;;;SI;;;;
+camiseta-choice-kids-dvy;"Camiseta choice kids dvy";"Kids ";Talle;10;;;;;21,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p data-start=""0"" data-end=""24"">Camiseta Choice KIDS DVY</p>
+<p>&nbsp;</p>
+<p data-start=""26"" data-end=""256"" data-is-last-node="""" data-is-only-node="""">Camiseta confeccionada en morley de algod&oacute;n de alta calidad, color rose suave.<br data-start=""104"" data-end=""107"" />Dise&ntilde;o c&oacute;modo y vers&aacute;til, ideal para el d&iacute;a a d&iacute;a de los m&aacute;s chicos.<br data-start=""175"" data-end=""178"" />Perfecta para combinar con distintas prendas y crear looks casuales y frescos.</p>";;;;;SI;;;;
+remera-rose-kids-dvy;"Remera rose KIDS DVY";"Kids ";Color;Gris;Talle;10;;;20,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p>Confeccionada en jersey 100% algod&oacute;n prelavado para m&aacute;xima suavidad y comodidad.<br data-start=""99"" data-end=""102"" />Detalle especial de florcitas aplicadas que aportan un toque delicado y divertido.<br data-start=""184"" data-end=""187"" />Ideal para los m&aacute;s chicos, perfecta para combinar con pantalones o shorts para un look fresco y alegre.</p>";;;;;SI;;;;
+pantalon-brush;"PANTALÓN BRUSH";Inferiores;Color;Visón;Talle;M;;;70,000.00;63,344.00;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p data-start=""0"" data-end=""35"">Pantal&oacute;n wide leg de morley brushed</p>
+<p data-start=""37"" data-end=""259"">Desde un d&iacute;a de trabajo hasta una salida con amigas, este pantal&oacute;n es tu aliado perfecto. Su tejido suave y c&oacute;modo te acompa&ntilde;a durante todo el d&iacute;a, mientras que el corte vers&aacute;til te permite crear infinitas combinaciones.</p>
+<p data-start=""261"" data-end=""350"">Comb&iacute;nalo con alguno de los tops de la misma familia para un look completo y a la moda.</p>
+<p>&nbsp;</p>
+<p data-start=""352"" data-end=""372"" data-is-last-node="""" data-is-only-node="""">Tela: morley brushed</p>";;;;;SI;;;;31,920.00
+pantalon-brush;;;Color;Visón;Talle;L;;;70,000.00;63,344.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;31,920.00
+pantalon-brush;;;Color;Negro;Talle;M;;;70,000.00;63,344.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;31,920.00
+pantalon-brush;;;Color;Negro;Talle;L;;;70,000.00;63,344.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;31,920.00
+chomba-brush;"Chomba Brush";Superiores;Color;Visón;Talle;S;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p data-start=""0"" data-end=""12"">Chomba Brush</p>
+<p data-start=""14"" data-end=""232"">Confeccionada en morley brushed, esta chomba combina comodidad y estilo en una prenda vers&aacute;til. Su tejido suave y c&aacute;lido te brinda confort durante todo el d&iacute;a, ideal para llevar sola o superpuesta en cualquier ocasi&oacute;n.</p>
+<p>&nbsp;</p>
+<p data-start=""234"" data-end=""279"" data-is-last-node="""" data-is-only-node="""">Un b&aacute;sico imprescindible para tu guardarropa.</p>";;;;;SI;;;;28,100.00
+chomba-brush;;;Color;Visón;Talle;M;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Visón;Talle;L;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Blanco;Talle;S;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Blanco;Talle;M;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Blanco;Talle;L;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Marrón;Talle;S;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Marrón;Talle;M;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Marrón;Talle;L;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Negro;Talle;S;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Negro;Talle;M;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;2;;;;;;;;;;;;;;28,100.00
+chomba-brush;;;Color;Negro;Talle;L;;;68,000.00;40,000.00;0.00;0.00;0.00;0.00;2;;;;;;;;;;;;;;28,100.00
+jean-skater;"Jean skater";Inferiores;Color;Negro;Talle;M;;;99,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p>Confeccionado en denim r&iacute;gido, este jean ofrece un corte skater moderno y c&oacute;modo. Sus bolsillos funcionales aportan practicidad sin perder estilo, ideal para un look casual y urbano.</p>";;;;;NO;;;;36,600.00
+jean-skater;;;Color;Negro;Talle;L;;;99,000.00;;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;36,600.00
+remera-bunny;"REMERA BUNNY";Superiores;Color;Blanco;Talle;L;;;67,000.00;30,000.00;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p><strong>Algod&oacute;n con spandex</strong></p>
+<p>Combina lo mejor de ambos mundos con nuestra remera oversize estampada.</p>
+<p>El algod&oacute;n suave te brinda la m&aacute;xima comodidad, mientras que el dise&ntilde;o la convierte en una pieza &uacute;nica.</p>";;;;;SI;;;;12,890.00
+camisa-poplin;"CAMISA POPLIN";Superiores;Talle;UNICO;Color;Celeste;;;40,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p><strong>Tela: Poplin</strong></p>
+<p>Nuestra camisa oversize de popl&iacute;n es la pieza clave que necesitas en tu armario. Su corte holgado y suave tejido te brindan una comodidad inigualable, mientras que el logo bordado le a&ntilde;ade un toque de sofisticaci&oacute;n. Perfecta para el d&iacute;a a d&iacute;a o para ocasiones m&aacute;s especiales, &iexcl;comb&iacute;nala como quieras y crea looks &uacute;nicos!</p>";;;;;SI;;;;18,500.00
+camisa-poplin;;;Talle;UNICO;Color;Beige;;;40,000.00;;0.00;0.00;0.00;0.00;1;;;;;;;;;;;;;;18,500.00
+camisa-bresh;"CAMISA BRESH";Superiores;Color;Negro;Talle;UNICO;;;40,000.00;;0.01;0.40;0.00;0.01;1;;;SI;NO;"<p data-start=""0"" data-end=""12"">Camisa Bresh</p>
+<p>&nbsp;</p>
+<p data-start=""14"" data-end=""250"" data-is-last-node="""" data-is-only-node="""">Confeccionada en poplin, esta camisa oversize se destaca por su comodidad y estilo relajado. Su ruedo redondeado le aporta un detalle moderno y vers&aacute;til, ideal para combinar con distintas prendas y crear looks casuales o m&aacute;s arreglados.</p>
+<p>&nbsp;</p>";;;;;SI;;;;19,191.00
+remera-button;"REMERA BUTTON";Superiores;Talle;L;;;;;42,000.00;;0.00;0.00;0.00;0.00;;;;SI;NO;"<p data-start=""0"" data-end=""13"">Remera Button</p>
+<p>&nbsp;</p>
+<p data-start=""15"" data-end=""278"" data-is-last-node="""" data-is-only-node="""">Confeccionada en tela suave y confortable, esta remera se caracteriza por su dise&ntilde;o cl&aacute;sico con botones frontales que aportan un toque de estilo y funcionalidad. Perfecta para un look casual y vers&aacute;til, se adapta f&aacute;cilmente a diferentes combinaciones y ocasiones.</p>";;;;;SI;;;;
+remera-button;;;Talle;XL;;;;;42,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+remera-button;;;Talle;M;;;;;42,000.00;;0.00;0.00;0.00;0.00;;;;;;;;;;;;;;;
+campera-lux-black-edition;"Campera LUX Black Edition";Superiores;Color;Marrón;Talle;L;;;180,000.00;;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p>U<strong>na bomba total. </strong>Campera<strong> </strong>de ecofur premium con interior forrado, cierre lateral met&aacute;lico y cintur&oacute;n que marca la cintura como ninguna. Es ese abrigo que no pasa desapercibido y levanta cualquier outfit. Ultra abrigada, ultra canchera.</p>
+<p>&nbsp;</p>
+<p><strong><span style=""color: #000000;"">Ideal para:</span></strong></p>
+<p>Las que no se conforman con pasar el invierno&hellip; quieren romperlo.</p>";;;;;SI;;;;
+campera-urban-fur-estilo-y-abrigo-en-un-solo-look;"Campera Urban Fur - Estilo y abrigo en un solo look";Superiores;Color;Negro;Talle;UNICO;;;187,500.00;150,000.00;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p>Una campera que no pasa desapercibida. Con detalles de piel sint&eacute;tica en bolsillos y cuello, esta prenda combina abrigo, dise&ntilde;o y mucha personalidad. Disponible en denim celeste y negro, para que elijas la que m&aacute;s va con vos. Ideal para elevar cualquier outfit de invierno sin perder comodidad.</p>
+<p>&nbsp;</p>
+<p>&iquest;Est&aacute;s lista para destacarte?</p>";;;;;SI;;;;
+campera-denim-2-en-1-con-peluche;"CAMPERA DENIM 2 EN 1 CON PELUCHE";Superiores;Talle;UNICO;;;;;220,000.00;160,000.00;0.01;0.04;0.00;0.01;0;;;SI;NO;"<p>La aliada ideal para el fr&iacute;o con estilo. Esta campera de jean viene con interior y detalles de peluche blanco s&uacute;per suave y abrigado&hellip; &iexcl;pero desmontable! Usala con el peluche para los d&iacute;as helados, o sin &eacute;l para un look m&aacute;s liviano. Dos camperas en una. Pr&aacute;ctica, canchera y c&oacute;moda.</p>
+<p>&nbsp;</p>
+<p><strong>&iquest;Te anim&aacute;s a hacerla tuya?</strong></p>";;;;;SI;;;;
+campera-corderito1;"CAMPERA CORDERITO";Superiores;Color;Marrón;;;;;120,000.00;80,000.00;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p>Abrigo ultra suave, con interior tipo corderito y detalles de piel sint&eacute;tica en capucha, pu&ntilde;os y ruedo. Ideal para d&iacute;as fr&iacute;os sin perder el estilo. Tiene lazo para ajustar en la cintura y un calce c&oacute;modo que se adapta a distintos cuerpos (talle &uacute;nico).</p>";;;;;SI;;;;40,000.00
+cartera-the-totebag;"CARTERA THE TOTEBAG";"Accesorios ";Color;Negro;;;;;65,000.00;40,000.00;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p data-start=""0"" data-end=""47""><strong data-start=""0"" data-end=""47"">Cartera The Totebag &ndash; Detalles del producto</strong></p>
+<p data-start=""49"" data-end=""172"">Dise&ntilde;ada para acompa&ntilde;arte en tu d&iacute;a a d&iacute;a con estilo y funcionalidad.<br data-start=""118"" data-end=""121"" />The Totebag combina dise&ntilde;o moderno con practicidad:</p>
+<ul data-start=""174"" data-end=""474"">
+<li data-start=""174"" data-end=""241"">
+<p data-start=""176"" data-end=""241""><strong data-start=""176"" data-end=""196"">Interior forrado</strong> para mayor protecci&oacute;n de tus pertenencias.</p>
+</li>
+<li data-start=""242"" data-end=""299"">
+<p data-start=""244"" data-end=""299""><strong data-start=""244"" data-end=""264"">Bolsillo interno</strong> para organizar objetos peque&ntilde;os.</p>
+</li>
+<li data-start=""300"" data-end=""393"">
+<p data-start=""302"" data-end=""393""><strong data-start=""302"" data-end=""334"">Tira desmontable negra REVEL</strong> con mosquet&oacute;n, que permite llevarla al hombro o cruzada.</p>
+</li>
+<li data-start=""394"" data-end=""474"">
+<p data-start=""396"" data-end=""410""><strong data-start=""396"" data-end=""408"">Medidas:</strong></p>
+<ul data-start=""413"" data-end=""474"">
+<li data-start=""413"" data-end=""430"">
+<p data-start=""415"" data-end=""430"">Altura: 26 cm</p>
+</li>
+<li data-start=""433"" data-end=""449"">
+<p data-start=""435"" data-end=""449"">Ancho: 30 cm</p>
+</li>
+<li data-start=""452"" data-end=""474"">
+<p data-start=""454"" data-end=""474"">Profundidad: 12 cm</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""476"" data-end=""545"" data-is-last-node="""" data-is-only-node="""">Ideal para complementar tus looks urbanos con un toque contempor&aacute;neo.</p>";;;;;SI;;;;25,000.00
+gorras-de-colores;"GORRAS DE COLORES";"Accesorios  > Gorra ";;;;;;;29,000.00;18,000.00;0.00;0.00;0.00;0.00;4;;;SI;NO;"<p data-start=""49"" data-end=""241"">Complet&aacute; tu outfit con un accesorio atemporal y con mucha actitud. Estas gorras importadas combinan estilo urbano con un look vintage gastado, ideales para sumar personalidad a cualquier look.</p>
+<p data-start=""243"" data-end=""446"">? <strong data-start=""246"" data-end=""258"">Incluye:</strong> 1 gorra<br data-start=""266"" data-end=""269"" />? <strong data-start=""272"" data-end=""285"">Material:</strong> Algod&oacute;n de alta calidad<br data-start=""309"" data-end=""312"" />? <strong data-start=""315"" data-end=""326"">Modelo:</strong> Gorra lisa<br data-start=""337"" data-end=""340"" />? <strong data-start=""343"" data-end=""354"">Estilo:</strong> Urbano, gastado, vintage<br data-start=""379"" data-end=""382"" />? <strong data-start=""385"" data-end=""396"">Estado:</strong> Nueva a estrenar<br data-start=""413"" data-end=""416"" />? <strong data-start=""419"" data-end=""446"">Producto 100% IMPORTADO</strong></p>
+<p data-start=""448"" data-end=""465"">? <strong data-start=""451"" data-end=""463"">Medidas:</strong></p>
+<ul data-start=""466"" data-end=""560"">
+<li data-start=""466"" data-end=""491"">
+<p data-start=""468"" data-end=""491"">Ajustable y regulable</p>
+</li>
+<li data-start=""492"" data-end=""525"">
+<p data-start=""494"" data-end=""525"">Circunferencia: 54 cm a 61 cm</p>
+</li>
+<li data-start=""526"" data-end=""542"">
+<p data-start=""528"" data-end=""542"">Visera: 7 cm</p>
+</li>
+<li data-start=""543"" data-end=""560"">
+<p data-start=""545"" data-end=""560"">Altura: 13 cm</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p data-start=""562"" data-end=""603"" data-is-last-node="""" data-is-only-node="""">Un b&aacute;sico infaltable con car&aacute;cter propio.</p>";;;;;SI;;;;9,000.00
+collar-inicial-globo;"Collar Inicial Globo";"Accesorios  > Collares";;;;;;;19,000.00;15,000.00;0.00;0.00;0.00;0.00;20;;;SI;NO;"<p data-start=""0"" data-end=""61""><strong data-start=""0"" data-end=""61"">Collar Inicial Globo &ndash; Un toque personal con brillo &uacute;nico</strong></p>
+<p>&nbsp;</p>
+<p data-start=""63"" data-end=""294"">Este collar con dije de letra en forma de globo es la combinaci&oacute;n perfecta entre ternura y estilo. Su dise&ntilde;o inflado tipo globo aporta volumen y originalidad, ideal para regalar o darte un gusto con algo especial y con significado.</p>";;;;;SI;;;;2,500.00
+esclava-carrie;"Esclava Carrie";"Accesorios  > Pulseras ";;;;;;;45,000.00;30,000.00;0.00;0.00;0.00;0.00;10;;;SI;NO;"<p>&iexcl;Brilla con estilo con nuestra esclava Carrie, ba&ntilde;ada en oro y elaborada en acero de alta calidad! Con un grosor ideal, es el complemento perfecto para cualquier ocasi&oacute;n, aportando un toque de elegancia atemporal a tu look. Su dise&ntilde;o minimalista y refinado realza tanto outfits casuales como formales, convirti&eacute;ndose en esa pieza imprescindible que nunca pasa de moda.</p>
+<p>&nbsp;</p>
+<p>Adem&aacute;s, su acabado resistente mantiene el brillo d&iacute;a tras d&iacute;a, incluso en contacto con el agua. Descubr&iacute; Carrie en nuestro showroom o en la tienda online y dej&aacute; que tu mu&ntilde;eca hable por vos.</p>";;;;;SI;;;;16,000.00
+home-spray-luxury-500-ml;"Home Spray Luxury - 500 ml";"Rituales sensoriales";;;;;;;20,000.00;15,000.00;0.00;0.00;0.00;0.00;40;;;SI;NO;"<p>Transform&aacute; tu espacio en un refugio de bienestar con nuestro Home Spray Luxury. Dise&ntilde;ado para aromatizar con sutileza y permanencia, este spray eleva la energ&iacute;a del ambiente y acompa&ntilde;a tus rituales cotidianos con una fragancia envolvente y sofisticada.</p>
+<p>&nbsp;</p>
+<p>Ideal para:</p>
+<p>&bull; Dormitorios, livings, espacios de trabajo, spa o centros de est&eacute;tica</p>
+<p>&bull; Perfumar ropa de cama y cortinas (a una distancia prudente)</p>
+<p>&bull; Crear atm&oacute;sferas c&aacute;lidas antes de recibir visitas o cerrar el d&iacute;a</p>
+<p>&nbsp;</p>
+<p>Modo de uso:</p>
+<p>Roci&aacute; en el ambiente a unos 30 cm de distancia.</p>
+<p>Repet&iacute; cuando quieras renovar la energ&iacute;a del espacio.</p>
+<p>&nbsp;</p>
+<p>Notas olfativas:</p>
+<p>La fragancia perfecta no se describe, se siente.</p>
+<p>Descubrila en cada rociada.</p>
+<p>&nbsp;</p>
+<p>Presentaci&oacute;n:</p>
+<p>Botella PET &aacute;mbar de 500 ml con vaporizador negro</p>
+<p>Etiqueta dorada con dise&ntilde;o exclusivo Luj&aacute;n BeautY</p>";;;;;SI;;;;5,000.00
+collar-love;"Collar Love";"Accesorios  > Collares";;;;;;;40,000.00;;0.00;0.00;0.00;0.00;0;;;SI;NO;"<p>Este collar con dije &ldquo;love&rdquo; es la elecci&oacute;n perfecta para sumar un toque rom&aacute;ntico y delicado a tu look diario. Su dise&ntilde;o minimalista lo convierte en un accesorio atemporal, ideal para usar solo o combinar con otros collares.</p>";;;;;SI;;;;8,400.00
+treboles-blanco;"Treboles Blanco";"Accesorios  > Collares";;;;;;;45,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Este collar destaca por sus dijes de tr&eacute;bol en tono blanco, s&iacute;mbolo universal de la buena fortuna. Su dise&ntilde;o sutil y refinado lo convierte en el complemento ideal para looks delicados y femeninos.</p>";;;;;SI;;;;7,500.00
+aros-trebol-plateado-grande;"Aros Trebol Plateado Grande";"Accesorios  > Aros";;;;;;;24,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Dise&ntilde;ados para destacar, estos aros de tr&eacute;bol en tama&ntilde;o grande combinan elegancia con un s&iacute;mbolo cl&aacute;sico de fortuna. Su acabado plateado aporta un look moderno y vers&aacute;til, ideal para elevar cualquier outfit.</p>";;;;;SI;;;;4,000.00
+aros-elite-dorado;"Aros Elite Dorado";"Accesorios  > Aros";;;;;;;27,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Con un dise&ntilde;o elegante y minimalista, los Aros Elite Dorado son el complemento ideal para realzar cualquier look. Su acabado brillante y su confecci&oacute;n cuidada los convierten en una pieza imprescindible.</p>";;;;;SI;;;;3,500.00
+argolla-venus-plateado;"Argolla Venus Plateado";"Accesorios  > Aros";;;;;;;25,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Esta argolla destaca por su dise&ntilde;o cl&aacute;sico y sofisticado, ideal para complementar cualquier estilo con un toque de distinci&oacute;n.</p>";;;;;SI;;;;2,150.00
+argollitas-mini-shine;"Argollitas mini shine";"Accesorios  > Aros";;;;;;;31,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Estas argollitas mini est&aacute;n ba&ntilde;adas y enchapadas en oro, ofreciendo un acabado luminoso y duradero. Su dise&ntilde;o peque&ntilde;o y elegante las convierte en el complemento perfecto para un look sutil pero sofisticado.</p>";;;;;SI;;;;4,000.00
+hermes-cordon-negro-dorado;"Hermes Cordón Negro Dorado";"Accesorios  > Pulseras ";;;;;;;30,000.00;;0.00;0.00;0.00;0.00;7;;;SI;NO;"<p>Elegancia y estilo en un dise&ntilde;o &uacute;nico. Este collar combina un cord&oacute;n negro resistente con detalles en dorado que aportan sofisticaci&oacute;n y versatilidad. Ideal para complementar tanto looks casuales como m&aacute;s formales.</p>";;;;;SI;;;;
+esclava-carrie-plateada;"ESCLAVA CARRIE PLATEADA";"Accesorios  > Pulseras ";;;;;;;45,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Una pieza elegante y vers&aacute;til que aporta un toque sofisticado a cualquier look. Su acabado plateado le da un brillo sutil y moderno, ideal para usar sola o combinada con otras pulseras.</p>";;;;;SI;;;;7,500.00
+pulsera-mujer-esclava-clavo-plateado;"Pulsera Mujer Esclava Clavo Plateado";"Accesorios  > Pulseras ";;;;;;;45,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Dise&ntilde;o moderno y audaz en forma de clavo, esta pulsera esclava con ba&ntilde;o y chapado en oro ofrece un acabado brillante y duradero, ideal para quienes buscan un accesorio con personalidad y elegancia.</p>";;;;;SI;;;;8,000.00
+pulsera-yves-plateada;"PULSERA Yves Plateada";"Accesorios  > Pulseras ";;;;;;;40,000.00;35,000.00;0.00;0.00;0.00;0.00;1;;;SI;NO;"<p>Esta pulsera Yves combina la elegancia del acabado plateado con la durabilidad y el brillo del ba&ntilde;o y chapado en oro, ofreciendo un dise&ntilde;o sofisticado y moderno.</p>
+<p>&nbsp;</p>";;;;;SI;;;;7,500.00
+hermes-cordon-special;"Hermes Cordón Special";"Accesorios  > Pulseras ";;;;;;;36,000.00;30,000.00;0.00;0.00;0.00;0.00;5;;;SI;NO;"<p>Pulsera ajustable con detalles en acero con ba&ntilde;o de oro, que combina durabilidad y estilo. Su dise&ntilde;o vers&aacute;til y elegante la hace ideal para complementar cualquier outfit, aportando un toque sofisticado y moderno.</p>";;;;;SI;;;;
+hermes-cordon-rojo-dorado;"Hermes Cordón Rojo Dorado";"Accesorios  > Pulseras ";;;;;;;36,000.00;30,000.00;0.00;0.00;0.00;0.00;3;;;SI;NO;"<p>Pulsera ajustable con detalles en acero con ba&ntilde;o de oro, que combina durabilidad y estilo. Su dise&ntilde;o vers&aacute;til y elegante la hace ideal para complementar cualquier outfit, aportando un toque sofisticado y moderno.</p>";;;;;SI;;;;
+pulsera-treboles-negros-de-acero-enchapada-en-oro;"Pulsera Treboles Negros De Acero Enchapada En Oro";"Accesorios  > Pulseras ";;;;;;;34,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Fabricada en acero inoxidable y enchapada en oro, esta pulsera combina resistencia y elegancia. Su dise&ntilde;o con tr&eacute;boles negros aporta un toque moderno y sofisticado, ideal para quienes buscan un accesorio distintivo y vers&aacute;til.</p>";;;;;SI;;;;55,000.00
+pulsera-treboles-cuatro-hojas-blanca-nacar-acero-bano-oro;"Pulsera Treboles Cuatro Hojas Blanca Nacar Acero Baño Oro";"Accesorios  > Pulseras ";;;;;;;34,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Fabricada en acero inoxidable y enchapada en oro, esta pulsera combina resistencia y elegancia. Su dise&ntilde;o con tr&eacute;boles negros aporta un toque moderno y sofisticado, ideal para quienes buscan un accesorio distintivo y vers&aacute;til.</p>";;;;;SI;;;;5,500.00
+pulsera-perla;"PULSERA PERLA";"Accesorios  > Pulseras ";;;;;;;35,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Ba&ntilde;ada y enchapada en oro, esta pulsera destaca por su delicado dise&ntilde;o con perlas que aportan elegancia y sofisticaci&oacute;n. Un accesorio cl&aacute;sico y atemporal que realza cualquier look con un toque refinado.</p>";;;;;SI;;;;5,000.00
+pulsera-mujer-esclava-clavo-acero-bano-oro;"Pulsera Mujer Esclava Clavo Acero Baño Oro";"Accesorios  > Pulseras ";;;;;;;45,000.00;;0.00;0.00;0.00;0.00;2;;;SI;NO;"<p>Pulsera de acero con ba&ntilde;o de oro, dise&ntilde;ada con un motivo de clavo y adornada con cubics zirconia que aportan brillo y sofisticaci&oacute;n. Una pieza elegante y moderna, perfecta para complementar cualquier outfit con un toque de estilo y lujo.</p>";;;;;SI;;;;8,000.00
+set-dorado;"Set Dorado";"Accesorios  > Aros";;;;;;;40,000.00;30,000.00;0.10;0.00;0.00;0.00;3;;;SI;NO;"<p>Aros ba&ntilde;ados y enchapados en oro, que combinan elegancia y sofisticaci&oacute;n. Un accesorio ideal para darle un toque de brillo y estilo a cualquier look.</p>";;;;;SI;;;;13,000.00
